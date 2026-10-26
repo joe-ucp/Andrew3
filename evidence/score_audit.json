@@ -1,0 +1,17 @@
+{
+  "workbook_rows": 11689,
+  "unique_genes": 11689,
+  "source_sha256": "d08660be0403e60f7ea8f2f025ae1d922862d4c4922fb5c0a6e8a3c9ac0920a8",
+  "discovery_count": 11,
+  "eligible_count": 6,
+  "coverage_fraction": 0.5454545454545454,
+  "q_encoding": "q = 10^(-stored -log10(FDR adj))",
+  "neg_log10_fdr_distinct": 3212,
+  "neg_log10_fdr_min": 0.0,
+  "neg_log10_fdr_max": 5.18829765330049,
+  "noninteger_neg_log10_fdr_values": 11682,
+  "tied_score_count": 0,
+  "null_sampler": "Independent uniform integer tuples conditioned on all entries being distinct; whole duplicate rows resampled",
+  "score_magnitude_interpretation": "Preserve signed published Fold change field; ranks and sign used; no back-transformed biological fold effects",
+  "inference_scope": "competitive gene-label exchangeability only, not biological replicate uncertainty"
+}

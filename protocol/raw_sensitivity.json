@@ -1,0 +1,32 @@
+{
+  "frozen_before_candidate_raw_outcome_inspection": true,
+  "created_utc": "2026-10-25T03:32:29.024935+00:00",
+  "candidate_genes": [
+    "HIVEP2",
+    "RNLS",
+    "GCN1",
+    "MED11",
+    "ZBED3",
+    "ZNF28"
+  ],
+  "normalization": "All guide counts divided by each sample total, times 1e6; log2(CPM+1).",
+  "gene_sample_summary": "Mean of log2(CPM+1) across mapped guides within each animal, then group mean hPi minus group mean no-PBMC. Guides are not biological replicates.",
+  "leave_one_animal_out": "Drop each of 12 graft animals once; recompute group mean contrast.",
+  "leave_one_guide_out": "Drop each candidate guide once; recompute gene sample summaries and contrast.",
+  "baseline_covariates": "Mapped guide count; mean no-PBMC CPM averaged across gene guides and animals; mean pre-transplant CPM across available labeled pre-transplant samples.",
+  "matched_background": "If full scored-universe mapping is available: same number of mapped guides as candidate, and same quintile of mean no-PBMC guide CPM and pre-transplant guide CPM. Report strata size and mark unresolved if fewer than 20 noncandidate peers. No replacing primary analysis.",
+  "mouse_library_eligibility": "Use published library name and versioned public annotation. If annotation or one-to-one species mapping unavailable, explicitly retain unresolved selection bias.",
+  "uncertainty": "Descriptive leave-one-out ranges only, not confidence intervals or independent donor inference. No negative binomial model in this arm.",
+  "no_changes_after_outcomes": "Any deviations must be recorded with reason.",
+  "annotation_policy": "Main raw descriptive analysis uses Broad CP0043 original-target chip 20220324 (gene design identity), with GRCh38 strict NCBI chip 20240130 concordance audit; gene symbol change only when authority matches stable identifier.",
+  "mouse_eligibility_rule": "A human score gene is eligible when its exact human symbol occurs in a frozen MGI HOM_MouseHumanSequence homology class with a mouse symbol listed verbatim in Addgene Mouse GeCKOv2 A. A later alias reconciliation is separately logged. No capitalization-only orthology. Restrict the published-score background to this eligible union; report candidate coverage and ambiguity. Current homology report is snapshot-hashed.",
+  "mouse_alias_reconciliation": "Resolve exact current symbols first, then unique MGI MRK_List2.rpt synonyms among current mouse homology records. Exclude ambiguous aliases; log mapping in raw_mouse_eligibility.csv. Freeze before outcomes.",
+  "post_primary_outcome_amendment": {
+    "created_utc": "2026-10-25T03:39:06.738216+00:00",
+    "primary_outcome_known": "theta 0.4209678; no positive significant candidate; HIVEP2 and GCN1 have positive published scores but negative total-CPM descriptive contrasts",
+    "reason": "Diagnostic to isolate the reference-control contribution to the sign discrepancy; cannot replace the primary analysis or raw contrast.",
+    "analysis": "Exploratory NT-centered descriptive contrast: candidate animal-level mean log2(CPM+1) minus animal-level mean log2(CPM+1) of all strict-chip NO_SITE guides; compare group means and repeat animal/guide omissions",
+    "NT_definition": "Broad CP0043 GRCh38 NCBI strict 20240130 annotation with Gene Symbol beginning NO_SITE_; exactly 941 barcodes, matching publication stated count but historical membership equivalence not proven",
+    "interpretation": "Simple descriptive difference-in-differences, not fitted negative-binomial random-effects model, no p-values"
+  }
+}

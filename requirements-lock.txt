@@ -1,0 +1,23 @@
+# Exact package versions used by the checked Python 3.12.14 environment.
+# Install in an isolated environment: python -m pip install -r requirements-lock.txt
+numpy==2.3.5
+pandas==3.0.1
+openpyxl==3.1.5
+matplotlib==3.10.7
+python-docx==1.2.0
+Pillow==12.3.0
+pypdf==6.10.0
+reportlab==4.4.9
+python-dateutil==2.9.0.post0
+six==1.17.0
+packaging==26.3
+lxml==6.1.1
+et_xmlfile==2.0.0
+tzdata==2026.5
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.67.0
+kiwisolver==1.5.1
+pyparsing==3.3.3
+typing_extensions==4.16.0
+charset-normalizer==3.5.2

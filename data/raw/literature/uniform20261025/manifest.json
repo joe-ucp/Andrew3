@@ -1,0 +1,643 @@
+[
+  {
+    "filename": "data/raw/literature/uniform20261025/HIVEP2_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=3097",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=3097",
+    "bytes": 3552,
+    "sha256": "cd1a0a7c1740e537cb427c6cfd0a410f7dd6b112210bec03ad3db724832374f7",
+    "retrieved_utc": "2026-10-25T15:23:05.666117+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "3097"
+    ],
+    "official_symbols": [
+      "HIVEP2"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/RNLS_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=55328",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=55328",
+    "bytes": 3344,
+    "sha256": "3014aa115f02b0d0b9a5acf0b4788c365b181b29b2cea62f4190004b8568a016",
+    "retrieved_utc": "2026-10-25T15:23:06.284992+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "55328"
+    ],
+    "official_symbols": [
+      "RNLS"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/GCN1_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=10985",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=10985",
+    "bytes": 3575,
+    "sha256": "20f786812ab3baa81392d3590963aed804a1f8f39c5bef55ccb15ac268804570",
+    "retrieved_utc": "2026-10-25T15:23:06.920996+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "10985"
+    ],
+    "official_symbols": [
+      "GCN1"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/MED11_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=400569",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=400569",
+    "bytes": 3151,
+    "sha256": "152d11f4a2bc9c7c53c70c736b2f1a70edbfe49d57ebbb2c171e2b96998716c6",
+    "retrieved_utc": "2026-10-25T15:23:07.500084+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "400569"
+    ],
+    "official_symbols": [
+      "MED11"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/ZBED3_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=84327",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=84327",
+    "bytes": 3358,
+    "sha256": "332d2b8574a86259728e950c65a5f8b12ca1bdc47731e788e01bd02d9a114b11",
+    "retrieved_utc": "2026-10-25T15:23:08.090207+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "84327"
+    ],
+    "official_symbols": [
+      "ZBED3"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/ZNF28_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=7576",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=7576",
+    "bytes": 3218,
+    "sha256": "6b5ad264a54ef76f48a3fe932d788c33958537dc6d547ed6292ab7f89a29770a",
+    "retrieved_utc": "2026-10-25T15:23:08.654325+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "7576"
+    ],
+    "official_symbols": [
+      "ZNF28"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/LGSN_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=51557",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=51557",
+    "bytes": 3462,
+    "sha256": "ef1ea284c5506ccfacefcfbd24bbf8aec4871141fe2f2eb672cb5bb39405a51a",
+    "retrieved_utc": "2026-10-25T15:23:09.237510+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "51557"
+    ],
+    "official_symbols": [
+      "LGSN"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/PLIN4_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=729359",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=729359",
+    "bytes": 3038,
+    "sha256": "c3fe6e5f42ea004f5f43866df8fcaeb736e46f4d94d45ef88e14cd1618349581",
+    "retrieved_utc": "2026-10-25T15:23:09.820208+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "729359"
+    ],
+    "official_symbols": [
+      "PLIN4"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/TGM6_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=343641",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=343641",
+    "bytes": 3285,
+    "sha256": "69af3a0e99705d97ee29f59237e869d148314e7ba545f6bfebbff873aa9a449f",
+    "retrieved_utc": "2026-10-25T15:23:10.375426+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "343641"
+    ],
+    "official_symbols": [
+      "TGM6"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/GRM2_human_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=2912",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=2912",
+    "bytes": 3909,
+    "sha256": "f6f5e8713ae4e4167c6f6dc967a6c238419063f6c9a26680d4c8d53b5798667f",
+    "retrieved_utc": "2026-10-25T15:23:10.985152+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "2912"
+    ],
+    "official_symbols": [
+      "GRM2"
+    ],
+    "taxids": [
+      9606
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Hivep2_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Hivep2%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Hivep2%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 392,
+    "sha256": "c6b6d807f330dad2f8e2ab2cb1357020e21dcd9d6fcbfe8d3be28f301a4eefe7",
+    "retrieved_utc": "2026-10-25T15:23:11.579188+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Hivep2_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=15273",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=15273",
+    "bytes": 2237,
+    "sha256": "2c24e4ba2665c847554ec8cee7a7ab92b2b638d6bee8bd4b39887d49365e166a",
+    "retrieved_utc": "2026-10-25T15:23:12.174698+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "15273"
+    ],
+    "official_symbols": [
+      "Hivep2"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Rnls_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Rnls%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Rnls%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 388,
+    "sha256": "79241cde37281adc66b932f74ee8f5a08caf9f170eaab2f6cb924168a37601d7",
+    "retrieved_utc": "2026-10-25T15:23:12.802670+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Rnls_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=67795",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=67795",
+    "bytes": 1539,
+    "sha256": "91111f88e4e4578c687df1714243ecb51286519ea27724fe38806485a7e4dca9",
+    "retrieved_utc": "2026-10-25T15:23:13.358762+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "67795"
+    ],
+    "official_symbols": [
+      "Rnls"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Gcn1_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Gcn1%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Gcn1%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 390,
+    "sha256": "cbfa8c4c4008ed7305f86a3e3261ec182235a0ff227eb8f7047bf94e605b6ea3",
+    "retrieved_utc": "2026-10-25T15:23:13.925913+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Gcn1_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=231659",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=231659",
+    "bytes": 1807,
+    "sha256": "dffacad1fd7f6531e3c5dc926a84539590dbac5d4adb0a487ba3ac172dcb947c",
+    "retrieved_utc": "2026-10-25T15:23:14.518929+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "231659"
+    ],
+    "official_symbols": [
+      "Gcn1"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Med11_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Med11%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Med11%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 391,
+    "sha256": "f4ae134fd086963eeb607a8ea5918a7fb469b77b0a77c0484409f1aff6282dcb",
+    "retrieved_utc": "2026-10-25T15:23:15.095763+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Med11_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=66172",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=66172",
+    "bytes": 1922,
+    "sha256": "5a9371d7845b7de1f8d2c1a9db5ed72df04b0e0870341460bcd8b21d335361b4",
+    "retrieved_utc": "2026-10-25T15:23:15.671112+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "66172"
+    ],
+    "official_symbols": [
+      "Med11"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Zbed3_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Zbed3%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Zbed3%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 390,
+    "sha256": "fd25e60ab4e187a3b04a84ba43e2d48d55570f2841b3fe7f9c78ac6b7ca468df",
+    "retrieved_utc": "2026-10-25T15:23:16.227359+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Zbed3_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=72114",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=72114",
+    "bytes": 1560,
+    "sha256": "d5fc8357786408c95e5f52b8ae396eb8940857871a54b81834852f22984e49e1",
+    "retrieved_utc": "2026-10-25T15:23:16.814150+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "72114"
+    ],
+    "official_symbols": [
+      "Zbed3"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Gm3604_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Gm3604%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Gm3604%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 394,
+    "sha256": "12509809a4f84be3a59a2c031087953f8d5be6e0fc48f73f647b2d208299656f",
+    "retrieved_utc": "2026-10-25T15:23:17.408576+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Gm3604_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=100041979",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=100041979",
+    "bytes": 1533,
+    "sha256": "7e6bf86fd7c5f77812faac9d82f6f0ede9383ba65ca14ef244c287d8ff1fd9ed",
+    "retrieved_utc": "2026-10-25T15:23:18.014115+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "100041979"
+    ],
+    "official_symbols": [
+      "Gm3604"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Lgsn_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Lgsn%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Lgsn%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 389,
+    "sha256": "ed00a360074a039d234087b6e7e44fbf1d3bc11b7826e69da12d2d5bacdd87a7",
+    "retrieved_utc": "2026-10-25T15:23:18.612660+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Lgsn_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=266744",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=266744",
+    "bytes": 1576,
+    "sha256": "cb3c77fd871e3e03267b5fec561bcd0a833830b8bb2be202b8e7612e18e0a983",
+    "retrieved_utc": "2026-10-25T15:23:19.168813+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "266744"
+    ],
+    "official_symbols": [
+      "Lgsn"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Plin4_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Plin4%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Plin4%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 390,
+    "sha256": "0e4670d07daf6be284d5fc0be84aa8236c6e3f1c501ef119436b88ace1f1d315",
+    "retrieved_utc": "2026-10-25T15:23:19.726878+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Plin4_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=57435",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=57435",
+    "bytes": 1420,
+    "sha256": "7c54429e65044256d0e6a6c426000c7eb1f91423b5c5b74a091634ee0b71c311",
+    "retrieved_utc": "2026-10-25T15:23:20.285787+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "57435"
+    ],
+    "official_symbols": [
+      "Plin4"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Tgm6_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Tgm6%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Tgm6%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 389,
+    "sha256": "636dee75be1f36943f67c2b088b11c24c8a91977575c5525987e019801aee1c6",
+    "retrieved_utc": "2026-10-25T15:23:20.887953+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Tgm6_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=241636",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=241636",
+    "bytes": 1458,
+    "sha256": "f94acc5441ac9716c1d78ad560f479e3a78ebd6d0b502e2ee2c03497395da253",
+    "retrieved_utc": "2026-10-25T15:23:21.501084+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "241636"
+    ],
+    "official_symbols": [
+      "Tgm6"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Grm2_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Grm2%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Grm2%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 397,
+    "sha256": "693b67966ca649a5ee0c39a30cae763bcc6fe2e9dfba4691b7440b8dca83204d",
+    "retrieved_utc": "2026-10-25T15:23:22.065331+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Grm2_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=108068,14817",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=108068,14817",
+    "bytes": 2502,
+    "sha256": "86973ab723a382657b5c5a9e367c8112800e5ede6dad23eafa4e2b3a7a097d4d",
+    "retrieved_utc": "2026-10-25T15:23:22.668592+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "108068",
+      "14817"
+    ],
+    "official_symbols": [
+      "Grm2",
+      "Gprc1b"
+    ],
+    "taxids": [
+      10090,
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Or8b47_mouse_ids.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Or8b47%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&retmode=json&term=Or8b47%5BGene+Name%5D+AND+10090%5BTaxonomy+ID%5D&retmax=20",
+    "bytes": 391,
+    "sha256": "71416ee4aa81cc94750f4b9e903cc068da7c2897995f4ce7c2783abe10c8b447",
+    "retrieved_utc": "2026-10-25T15:23:23.257010+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Or8b47_mouse_gene.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=258873",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=258873",
+    "bytes": 1960,
+    "sha256": "afdd377ac5dc87f6d76a38237ef1c23d5cf32048d996582c6ea07921209d30eb",
+    "retrieved_utc": "2026-10-25T15:23:23.820688+00:00",
+    "role": "Authoritative NCBI Gene metadata for frozen v3 aliases",
+    "gene_ids": [
+      "258873"
+    ],
+    "official_symbols": [
+      "Or8b47"
+    ],
+    "taxids": [
+      10090
+    ],
+    "access_note": "Public authoritative NCBI Gene metadata; nomenclature does not amend committed quantitative mapping"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/HIVEP2_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22HIVEP2%22+OR+TITLE_ABS%3A%22HIVEP+zinc+finger+2%22+OR+TITLE_ABS%3A%22HIV-EP2%22+OR+TITLE_ABS%3A%22MBP-2%22+OR+TITLE_ABS%3A%22MIBP1%22+OR+TITLE_ABS%3A%22MRD43%22+OR+TITLE_ABS%3A%22SHN2%22+OR+TITLE_ABS%3A%22ZAS2%22+OR+TITLE_ABS%3A%22ZNF40B%22+OR+TITLE_ABS%3A%22human+immunodeficiency+virus+type+I+enhancer+binding+protein+2%22+OR+TITLE_ABS%3A%22Gm20114%22+OR+TITLE_ABS%3A%22MIBP-1%22+OR+TITLE_ABS%3A%22Schnurri-2%22+OR+TITLE_ABS%3A%22Shn-2%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22HIVEP2%22+OR+TITLE_ABS%3A%22HIVEP+zinc+finger+2%22+OR+TITLE_ABS%3A%22HIV-EP2%22+OR+TITLE_ABS%3A%22MBP-2%22+OR+TITLE_ABS%3A%22MIBP1%22+OR+TITLE_ABS%3A%22MRD43%22+OR+TITLE_ABS%3A%22SHN2%22+OR+TITLE_ABS%3A%22ZAS2%22+OR+TITLE_ABS%3A%22ZNF40B%22+OR+TITLE_ABS%3A%22human+immunodeficiency+virus+type+I+enhancer+binding+protein+2%22+OR+TITLE_ABS%3A%22Gm20114%22+OR+TITLE_ABS%3A%22MIBP-1%22+OR+TITLE_ABS%3A%22Schnurri-2%22+OR+TITLE_ABS%3A%22Shn-2%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 32007,
+    "sha256": "33755eb88d8025ca2a8f957f66a7ac91d8ca29f73477a89c8031e13559784a8d",
+    "retrieved_utc": "2026-10-25T15:25:48.788087+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target HIVEP2",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/RNLS_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22RNLS%22+OR+TITLE_ABS%3A%22renalase%2C+FAD+dependent+amine+oxidase%22+OR+TITLE_ABS%3A%22C10orf59%22+OR+TITLE_ABS%3A%22RENALASE%22+OR+TITLE_ABS%3A%22renalase%2C+FAD-dependent+amine+oxidase%22+OR+TITLE_ABS%3A%226530404N21Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22RNLS%22+OR+TITLE_ABS%3A%22renalase%2C+FAD+dependent+amine+oxidase%22+OR+TITLE_ABS%3A%22C10orf59%22+OR+TITLE_ABS%3A%22RENALASE%22+OR+TITLE_ABS%3A%22renalase%2C+FAD-dependent+amine+oxidase%22+OR+TITLE_ABS%3A%226530404N21Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 80864,
+    "sha256": "bcf3cb729550081e24140402445a294867ee723f119dad794d296d8185ec712c",
+    "retrieved_utc": "2026-10-25T15:25:51.252548+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target RNLS",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/GCN1_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22GCN1%22+OR+TITLE_ABS%3A%22Gcn1l1%22+OR+TITLE_ABS%3A%22GCN1+activator+of+EIF2AK4%22+OR+TITLE_ABS%3A%22GCN1L%22+OR+TITLE_ABS%3A%22PRIC295%22+OR+TITLE_ABS%3A%224932409G22%22+OR+TITLE_ABS%3A%22G431004K08Rik%22+OR+TITLE_ABS%3A%22mKIAA0219%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22GCN1%22+OR+TITLE_ABS%3A%22Gcn1l1%22+OR+TITLE_ABS%3A%22GCN1+activator+of+EIF2AK4%22+OR+TITLE_ABS%3A%22GCN1L%22+OR+TITLE_ABS%3A%22PRIC295%22+OR+TITLE_ABS%3A%224932409G22%22+OR+TITLE_ABS%3A%22G431004K08Rik%22+OR+TITLE_ABS%3A%22mKIAA0219%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 776,
+    "sha256": "b4f804db26a9ad719b283c0b97cd76f70884eace80ffc49e5f798084aaed5919",
+    "retrieved_utc": "2026-10-25T15:25:52.481223+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target GCN1",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/MED11_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22MED11%22+OR+TITLE_ABS%3A%22mediator+complex+subunit+11%22+OR+TITLE_ABS%3A%22HSPC296%22+OR+TITLE_ABS%3A%22NDDRSB%22+OR+TITLE_ABS%3A%221110030J09Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22MED11%22+OR+TITLE_ABS%3A%22mediator+complex+subunit+11%22+OR+TITLE_ABS%3A%22HSPC296%22+OR+TITLE_ABS%3A%22NDDRSB%22+OR+TITLE_ABS%3A%221110030J09Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 701,
+    "sha256": "7bb1134f0648d8e6a738aeb0465e6c325863673edb1efbd42c580df1d6ab907f",
+    "retrieved_utc": "2026-10-25T15:25:53.720305+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target MED11",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/ZBED3_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22ZBED3%22+OR+TITLE_ABS%3A%22zinc+finger+BED-type+containing+3%22+OR+TITLE_ABS%3A%22zinc+finger%2C+BED+type+containing+3%22+OR+TITLE_ABS%3A%220610037K01Rik%22+OR+TITLE_ABS%3A%222610005H11Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22ZBED3%22+OR+TITLE_ABS%3A%22zinc+finger+BED-type+containing+3%22+OR+TITLE_ABS%3A%22zinc+finger%2C+BED+type+containing+3%22+OR+TITLE_ABS%3A%220610037K01Rik%22+OR+TITLE_ABS%3A%222610005H11Rik%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 85936,
+    "sha256": "90a54268c801303960c3836f49ada9b35b8859b467bd7b202170bce5dfd8da0f",
+    "retrieved_utc": "2026-10-25T15:25:55.442944+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target ZBED3",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/ZNF28_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22ZNF28%22+OR+TITLE_ABS%3A%22Gm3604%22+OR+TITLE_ABS%3A%22zinc+finger+protein+28%22+OR+TITLE_ABS%3A%22KOX24%22+OR+TITLE_ABS%3A%22predicted+gene+3604%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22ZNF28%22+OR+TITLE_ABS%3A%22Gm3604%22+OR+TITLE_ABS%3A%22zinc+finger+protein+28%22+OR+TITLE_ABS%3A%22KOX24%22+OR+TITLE_ABS%3A%22predicted+gene+3604%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 700,
+    "sha256": "84a2f6c57ee664abc7fb44505c9139ad0f30a6c68e8baea791b9e00c7e90c3a0",
+    "retrieved_utc": "2026-10-25T15:25:56.863142+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target ZNF28",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/LGSN_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22LGSN%22+OR+TITLE_ABS%3A%22lengsin%2C+lens+protein+with+glutamine+synthetase+domain%22+OR+TITLE_ABS%3A%22GLULD1%22+OR+TITLE_ABS%3A%22LGS%22+OR+TITLE_ABS%3A%22lengsin%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22LGSN%22+OR+TITLE_ABS%3A%22lengsin%2C+lens+protein+with+glutamine+synthetase+domain%22+OR+TITLE_ABS%3A%22GLULD1%22+OR+TITLE_ABS%3A%22LGS%22+OR+TITLE_ABS%3A%22lengsin%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 323920,
+    "sha256": "ad516f1a077c35d5f1e55a47a32a856747e3a540f2907b103672343d6c286a1b",
+    "retrieved_utc": "2026-10-25T15:25:59.892124+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target LGSN",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/PLIN4_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22PLIN4%22+OR+TITLE_ABS%3A%22perilipin+4%22+OR+TITLE_ABS%3A%22KIAA1881%22+OR+TITLE_ABS%3A%22MDRV%22+OR+TITLE_ABS%3A%22MRUPAV%22+OR+TITLE_ABS%3A%22S3-12%22+OR+TITLE_ABS%3A%22mKIAA1881%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22PLIN4%22+OR+TITLE_ABS%3A%22perilipin+4%22+OR+TITLE_ABS%3A%22KIAA1881%22+OR+TITLE_ABS%3A%22MDRV%22+OR+TITLE_ABS%3A%22MRUPAV%22+OR+TITLE_ABS%3A%22S3-12%22+OR+TITLE_ABS%3A%22mKIAA1881%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 132371,
+    "sha256": "914382bcca8436c2184c27764a7591b05aa801ce1333d33a3fe62e86a604ba74",
+    "retrieved_utc": "2026-10-25T15:26:02.230539+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target PLIN4",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/TGM6_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22TGM6%22+OR+TITLE_ABS%3A%22transglutaminase+6%22+OR+TITLE_ABS%3A%22SCA35%22+OR+TITLE_ABS%3A%22TG6%22+OR+TITLE_ABS%3A%22TGM3L%22+OR+TITLE_ABS%3A%22TGY%22+OR+TITLE_ABS%3A%22dJ734P14.3%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22TGM6%22+OR+TITLE_ABS%3A%22transglutaminase+6%22+OR+TITLE_ABS%3A%22SCA35%22+OR+TITLE_ABS%3A%22TG6%22+OR+TITLE_ABS%3A%22TGM3L%22+OR+TITLE_ABS%3A%22TGY%22+OR+TITLE_ABS%3A%22dJ734P14.3%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 30566,
+    "sha256": "a1cb85bf36f918fcfa32fea03c0b18988d33fc1e96b5d6bcb3e1b75cfa93caea",
+    "retrieved_utc": "2026-10-25T15:26:03.775768+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target TGM6",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/GRM2_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22GRM2%22+OR+TITLE_ABS%3A%22glutamate+metabotropic+receptor+2%22+OR+TITLE_ABS%3A%22GLUR2%22+OR+TITLE_ABS%3A%22GPRC1B%22+OR+TITLE_ABS%3A%22MGLUR2%22+OR+TITLE_ABS%3A%22mGlu2%22+OR+TITLE_ABS%3A%22glutamate+receptor%2C+metabotropic+2%22+OR+TITLE_ABS%3A%224930441L02Rik%22+OR+TITLE_ABS%3A%22mGluR7%22+OR+TITLE_ABS%3A%22G+protein+coupled+receptor%2C+family+C%2C+group+1%2C+member+B%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22GRM2%22+OR+TITLE_ABS%3A%22glutamate+metabotropic+receptor+2%22+OR+TITLE_ABS%3A%22GLUR2%22+OR+TITLE_ABS%3A%22GPRC1B%22+OR+TITLE_ABS%3A%22MGLUR2%22+OR+TITLE_ABS%3A%22mGlu2%22+OR+TITLE_ABS%3A%22glutamate+receptor%2C+metabotropic+2%22+OR+TITLE_ABS%3A%224930441L02Rik%22+OR+TITLE_ABS%3A%22mGluR7%22+OR+TITLE_ABS%3A%22G+protein+coupled+receptor%2C+family+C%2C+group+1%2C+member+B%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 173437,
+    "sha256": "2e4885c7bb4337e99fc0b17bb6b46120c69778e4ad8afa9e3b7480fbcd37b8f3",
+    "retrieved_utc": "2026-10-25T15:26:06.239197+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target GRM2",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Or8b47_uniform_search.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Or8b47%22+OR+TITLE_ABS%3A%22Olfr909%22+OR+TITLE_ABS%3A%22olfactory+receptor+family+8+subfamily+B+member+47%22+OR+TITLE_ABS%3A%22MOR165-1%22+OR+TITLE_ABS%3A%22MOR166-1%22+OR+TITLE_ABS%3A%22Olfr911%22+OR+TITLE_ABS%3A%22Olfr911-ps1%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Or8b47%22+OR+TITLE_ABS%3A%22Olfr909%22+OR+TITLE_ABS%3A%22olfactory+receptor+family+8+subfamily+B+member+47%22+OR+TITLE_ABS%3A%22MOR165-1%22+OR+TITLE_ABS%3A%22MOR166-1%22+OR+TITLE_ABS%3A%22Olfr911%22+OR+TITLE_ABS%3A%22Olfr911-ps1%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet%2A+OR+TITLE_ABS%3A%22beta+cell%22+OR+TITLE_ABS%3A%22beta+cells%22+OR+TITLE_ABS%3A%22beta-cell%22+OR+TITLE_ABS%3A%22beta-cells%22+OR+TITLE_ABS%3A%22pancreatic+endocrine%22%29+AND+%28TITLE_ABS%3Asecret%2A+OR+TITLE_ABS%3Afunction%2A+OR+TITLE_ABS%3Aglucose+OR+TITLE_ABS%3AGSIS+OR+TITLE_ABS%3Aprotect%2A+OR+TITLE_ABS%3Aimmun%2A+OR+TITLE_ABS%3A%22stimulus+secretion%22%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 775,
+    "sha256": "c09b8960b16650488939d0ad5be39f54093e4c381fded78f64bc5a8e65f638c7",
+    "retrieved_utc": "2026-10-25T15:26:07.439838+00:00",
+    "role": "Frozen uniform alias-aware title/abstract search; target Or8b47",
+    "access_note": "Public Europe PMC metadata; original source rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8227/7502486/3ca14c705144/nihms-1607351-f0016.jpg",
+    "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8227/7502486/3ca14c705144/nihms-1607351-f0016.jpg",
+    "bytes": 237252,
+    "sha256": "c76853866adc043e2c8b4a68bf1e3e9bff0e1bc70cb44c58d6bc7d7694084124",
+    "retrieved_utc": "2026-10-25T15:28:52.568137+00:00",
+    "role": "Primary figure for baseline secretion observation; source URL resolved from existing full-text XML image-cloudpmc-urn",
+    "access_note": "Public primary figure; original publisher rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/Cai2020_ED2.jpg",
+    "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8227/7502486/c2b5dde9e343/nihms-1607351-f0008.jpg",
+    "final_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8227/7502486/c2b5dde9e343/nihms-1607351-f0008.jpg",
+    "bytes": 322616,
+    "sha256": "081b801f93eb2ba51477fb2a67f4ce4d35003868d1aa84857de5d41bbeff26db",
+    "retrieved_utc": "2026-10-25T15:28:52.969747+00:00",
+    "role": "Primary figure for baseline secretion observation; source URL resolved from existing full-text XML image-cloudpmc-urn",
+    "access_note": "Public primary figure; original publisher rights retained"
+  },
+  {
+    "filename": "data/raw/literature/uniform20261025/ZBED3_clinical2022.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9809257/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9809257/fullTextXML",
+    "bytes": 84752,
+    "sha256": "7daee517742445a5d913c74b78afc974d8c70be69712af5e99c5b89b067c4d60",
+    "retrieved_utc": "2026-10-25T15:34:21.631587+00:00",
+    "role": "Primary follow-up: ZBED3 clinical-variant and systemic C-peptide lead",
+    "access_note": "Public full text; original rights retained"
+  }
+]

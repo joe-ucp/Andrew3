@@ -1,0 +1,59 @@
+{
+  "revision_plan_sha256": "244820006fb8a77e952a04e534eef8fdbab3c0d4b43ae22036a45ce9d232dc5e",
+  "primary_null_calibration": {
+    "universe_n": 11689,
+    "candidates_m": 6,
+    "observed_theta": 0.42096778795400724,
+    "draws": 1000000,
+    "exceedances": 743859,
+    "p_upper_tail_plus_one": 0.7438592561407439,
+    "monte_carlo_se": 0.0004365004733038477,
+    "seed": 20261025,
+    "null_mean": 0.5000143147593369,
+    "null_sd": 0.11795604082394028,
+    "central_95_lower": 0.27077805358212786,
+    "central_95_upper": 0.7300350937259266,
+    "upper_5pct_reference_boundary": 0.694827241861394,
+    "rejection_rule": "theta > empirical .95 quantile",
+    "reference_null_rejection_fraction": 0.049993,
+    "threshold_tie_count": 14,
+    "interpretation": "Conditional published-point-estimate/gene-label reference; not a biological-effect interval"
+  },
+  "no_hit_calibration": {
+    "universe_n": 11689,
+    "positive_genomewide_supported_genes": 98,
+    "candidate_set_size": 6,
+    "observed_hits": 0,
+    "uniform_random_set_probability_zero_hits": 0.9507286242496122,
+    "expected_hit_count": 0.05030370433741124,
+    "formula": "C(N-K,m)/C(N,m)",
+    "interpretation": "Calibration of discovery-threshold count; not an independent negative biological test"
+  },
+  "secondary_joint_matched_test": {
+    "common_universe_n": 11474,
+    "universe_missing_covariates": 215,
+    "candidate_count": 6,
+    "n_occupied_strata": 6,
+    "observed_T": 0.36883375029516285,
+    "draws": 1000000,
+    "exceedances": 863280,
+    "p_upper_tail_plus_one": 0.8632801367198633,
+    "monte_carlo_se": 0.00034355136772366,
+    "seed": 20261026,
+    "null_mean": 0.5000242114338399,
+    "null_sd": 0.11786953788921697,
+    "central_95_lower": 0.27055521338435934,
+    "central_95_upper": 0.7291447230261063,
+    "reference": "preserved nominee count per disjoint stratum, full stratum includes nominees",
+    "scope": "Secondary conditional label reference; biological gene correlations unmodeled"
+  },
+  "common_universe_constant_shift": {
+    "shared_NT_constant": -0.5442449920913339,
+    "rank_vectors_identical": true,
+    "theta_identical": true,
+    "identity": "(d_g-c)>(d_h-c) iff d_g>d_h; equalities are also preserved",
+    "consequence": "Common centering changes the reference zero/sign, not the ordering or rank enrichment in a fixed universe"
+  },
+  "experimental_uncertainty": "Not estimated: published vector supplies point effects and adjusted q, not nominal p-values, covariance or complete model uncertainty. No inverse-q reconstruction attempted.",
+  "calculation_scope": "All numerical results computed from the retained scientific inputs."
+}

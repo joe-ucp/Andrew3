@@ -1,0 +1,16 @@
+quantile	theta	meaning
+0.001	0.15763645182458844	empirical competitive-null reference, not biological confidence limit
+0.0050000000000000001	0.20599731804045765	empirical competitive-null reference, not biological confidence limit
+0.01	0.23153299666181631	empirical competitive-null reference, not biological confidence limit
+0.025000000000000001	0.27077805358212786	empirical competitive-null reference, not biological confidence limit
+0.050000000000000003	0.30552940169477016	empirical competitive-null reference, not biological confidence limit
+0.10000000000000001	0.34718536905475189	empirical competitive-null reference, not biological confidence limit
+0.25	0.41871380067904934	empirical competitive-null reference, not biological confidence limit
+0.5	0.49967188792832889	empirical competitive-null reference, not biological confidence limit
+0.75	0.58125766783645749	empirical competitive-null reference, not biological confidence limit
+0.90000000000000002	0.65308568004793288	empirical competitive-null reference, not biological confidence limit
+0.94999999999999996	0.694827241861394	empirical competitive-null reference, not biological confidence limit
+0.97499999999999998	0.73003509372592656	empirical competitive-null reference, not biological confidence limit
+0.98999999999999999	0.7690233672857999	empirical competitive-null reference, not biological confidence limit
+0.995	0.79443065422693948	empirical competitive-null reference, not biological confidence limit
+0.999	0.84210676481497337	empirical competitive-null reference, not biological confidence limit

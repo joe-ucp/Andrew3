@@ -1,0 +1,52 @@
+{
+  "analysis_id": "bounded_first_degree_citation_check",
+  "frozen_utc": "2026-10-25T15:21:53+00:00",
+  "purpose": "Improve the provenance and symmetry of a bounded eleven-target functional evidence assessment; no statistical analysis or biological efficacy claim is added.",
+  "outcomes_known": "The original and revised statistical results and existing four-anchor functional evidence map are known. This is an explicitly post-result literature assessment.",
+  "anchors": [
+    {
+      "id": "Cai2020",
+      "pmcid": "PMC7502486",
+      "doi": "10.1038/s42255-020-0254-1",
+      "retained_xml": "data/raw/literature/cai2020.xml"
+    },
+    {
+      "id": "Sintov2022",
+      "pmcid": "PMC9481918",
+      "doi": "10.1016/j.stemcr.2022.08.002",
+      "retained_xml": "data/raw/literature/sintov2022.xml"
+    },
+    {
+      "id": "Karaoglu2026",
+      "pmcid": "PMC12909247",
+      "doi": "10.3389/fimmu.2026.1759835",
+      "retained_xml": "data/raw/literature/karaoglu2026.xml"
+    },
+    {
+      "id": "MacDonald2025",
+      "pmcid": "PMC11981795",
+      "doi": "10.1016/j.molmet.2025.102115",
+      "retained_xml": "data/raw/literature/rnls2025.xml"
+    }
+  ],
+  "candidate_boundary": "The eleven original Cai Figure 1 targets and their committed counterparts/current aliases. Alias-aware database searching and authority verification are separately owned by the functional evidence assessment. A citation record is not excluded solely because a candidate alias is absent from its title or abstract.",
+  "database": "Europe PMC REST references and citations endpoints, supplemented by the four already retained primary XML bibliographies and Europe PMC core metadata/fullTextXML.",
+  "date_boundary": "First publication on or before 2026-10-25; no lower date boundary. Unknown dates remain explicit rather than being silently excluded.",
+  "scope": "One backward and one forward citation generation from each of the four anchors. No recursive citation expansion. Relevant candidate experiments found within this boundary are followed to their primary text and available supplements but do not trigger another generation of citations.",
+  "pagination": {
+    "page_size": 100,
+    "maximum_per_anchor_direction": 1000,
+    "rule": "Retrieve successive pages until reported total is exhausted or the cap is reached. Report totals, pages, actual returned count, and truncation/access failures. An empty endpoint does not establish absence of citations."
+  },
+  "backward_completeness": "Parse every ref-list entry from each frozen anchor XML. Reconcile identifier/title coverage with the references endpoint and preserve unmatched bibliography entries for screening.",
+  "screening": [
+    "Deduplicate identifiable records across anchors and directions while retaining every edge and original identifiers.",
+    "Inspect all returned titles and obtain available core abstracts for indexed records. Keep missing or inaccessible metadata explicit.",
+    "Retrieve primary full text for records with an exact-candidate perturbation and possible beta-cell/islet function or immune-protection relevance; also follow beta-cell intervention/function leads where abstract metadata does not resolve candidate relevance.",
+    "Record perturbation identity, model, assay timing, secretion/protection endpoint, source locator, and whether evidence is new, already curated, contextual, excluded, or unresolved.",
+    "Exclude expression/association-only studies, unrelated tissues, different paralogs, nonselective pharmacology and reviews as direct exact-edit functional evidence; reviews may identify only first-generation bibliography records already in scope. Favorable baseline observations are retained without imposing a post-challenge criterion on their baseline claim.",
+    "Post-immune retained-function evidence requires an actual candidate-specific paired or suitably comparative basal/stimulated assessment in an immune-challenged beta-cell setting; missing or inconclusive observations remain separate from failed function."
+  ],
+  "storage": "Immutable new files under data/raw/literature/revision3_citations/ with exact URL, retrieval UTC, filename, SHA256, role and access/license notes in manifest.json. Screening and all query/count/decision records in evidence/citation_search_log.json. Existing frozen inputs will not be overwritten.",
+  "limits": "Europe PMC citation indexing and available abstracts/full text are incomplete; this targeted first-generation check is not a systematic review, universal absence claim, priority certificate, or independent biological validation."
+}

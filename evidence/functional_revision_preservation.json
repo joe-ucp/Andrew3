@@ -1,0 +1,8 @@
+{
+  "original_records": 32,
+  "original_cells_unchanged": true,
+  "appended_coverage_records": 5,
+  "screened_database_records": 45,
+  "prior_v1_evidence_csv_sha256": "f5565577c6df534fbc31b233df184054602c1af5d8161425a7f7ae902497549c",
+  "reconstruction_note": "The prior archive is not required for reconstruction; current source-linked records are serialized by evidence/functional_build.py."
+}

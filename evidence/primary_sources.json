@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9481918/supplementaryFiles",
+    "filename": "data/raw/scores/PMC9481918_supplementary.zip",
+    "sha256": "dc1d3739b59bef814d12f149a9177a1e4bed6a96a405915477e8f7d33859c2a1",
+    "retrieved_utc": "2026-10-25T03:33:20.002882+00:00",
+    "role": "Sintov original supplementary package",
+    "access_note": "Public source; third-party rights retained"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9481918/supplementaryFiles",
+    "filename": "data/raw/scores/mmc2.xlsx",
+    "sha256": "d08660be0403e60f7ea8f2f025ae1d922862d4c4922fb5c0a6e8a3c9ac0920a8",
+    "retrieved_utc": "2026-10-25T03:36:00.582070+00:00",
+    "role": "Published allogeneic score universe",
+    "access_note": "Public source; third-party rights retained",
+    "archive_member": "mmc2.xlsx"
+  },
+  {
+    "url": "https://www.informatics.jax.org/marker/MGI:3781781",
+    "filename": "data/raw/mapping/Gm3604_MGI.html",
+    "sha256": "aef0ae2300891e5edd6fa496397fab48c9a4b0f2c029b21e94b409358ff7fc86",
+    "retrieved_utc": "2026-10-25T03:33:20.803840+00:00",
+    "role": "Mapping-sensitive Gm3604 to ZNF28 authority",
+    "access_note": "Public source; third-party rights retained"
+  },
+  {
+    "url": "https://www.informatics.jax.org/marker/MGI:2444248",
+    "filename": "data/raw/mapping/Gcn1_MGI.html",
+    "sha256": "b9d4a1434c66fff974aafffcdad02010cd26937b1de22912f92011124a350a51",
+    "retrieved_utc": "2026-10-25T03:36:01.442569+00:00",
+    "role": "Gcn1l1 alias and GCN1 orthology authority",
+    "access_note": "Public source; third-party rights retained"
+  },
+  {
+    "url": "https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt",
+    "filename": "data/raw/mapping/HOM_MouseHumanSequence.rpt",
+    "sha256": "c1e687ab12199044d4703b9a79864f5c51bc4134293dbc545e58fb5f7ab915c7",
+    "retrieved_utc": "2026-10-25T03:33:27.369359+00:00",
+    "role": "MGI mouse-human homology snapshot",
+    "access_note": "Public source; third-party rights retained"
+  }
+]

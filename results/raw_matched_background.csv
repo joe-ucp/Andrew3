@@ -1,0 +1,7 @@
+gene,matched_background_n,control_quintile,pretransplant_quintile,guide_count,candidate_vs_matched_probability,status
+HIVEP2,542,0,1,4,0.6476014760147601,descriptive_adequate_stratum
+RNLS,1695,0,0,4,0.3368731563421829,descriptive_adequate_stratum
+GCN1,346,4,3,4,0.9421965317919075,descriptive_adequate_stratum
+MED11,556,1,2,4,0.09712230215827339,descriptive_adequate_stratum
+ZBED3,433,3,4,4,0.06235565819861432,descriptive_adequate_stratum
+ZNF28,1214,1,1,4,0.12685337726523888,descriptive_adequate_stratum

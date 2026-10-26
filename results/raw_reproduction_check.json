@@ -1,0 +1,5 @@
+{
+  "generated_output_count": 16,
+  "all_sha256_match_after_rerun": true,
+  "method": "SHA-256 of raw_* generated outputs before and after a second run; reproduction check excludes itself"
+}

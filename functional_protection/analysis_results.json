@@ -1,0 +1,121 @@
+{
+  "data_type": "Exact hypothetical examples in arbitrary secretion units; no biological measurements",
+  "identity": "F = (QH - QL) / N0 = (Nlive / N0) * ((QH - QL) / Nlive)",
+  "domain": "Matched-duration assays, beta-cell-attributable secretion, N0 > 0; survivor factor requires Nlive > 0. Ratios require positive control increments.",
+  "examples": {
+    "challenged_control": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 40,
+      "basal_output": 20.0,
+      "stimulated_output": 60.0,
+      "incremental_output": 40.0,
+      "retained_abundance_fraction": 0.4,
+      "output_per_initial_cell": 0.4,
+      "increment_per_survivor": 1.0,
+      "stimulation_index": 3.0,
+      "reference_scenario": "challenged_control",
+      "output_ratio_to_challenged_control": 1.0
+    },
+    "persistence_with_lower_output": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 80,
+      "basal_output": 16.0,
+      "stimulated_output": 48.0,
+      "incremental_output": 32.0,
+      "retained_abundance_fraction": 0.8,
+      "output_per_initial_cell": 0.32,
+      "increment_per_survivor": 0.39999999999999997,
+      "stimulation_index": 3.0,
+      "reference_scenario": "challenged_control",
+      "output_ratio_to_challenged_control": 0.7999999999999999
+    },
+    "persistence_with_preserved_per_cell_output": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 80,
+      "basal_output": 40.0,
+      "stimulated_output": 120.0,
+      "incremental_output": 80.0,
+      "retained_abundance_fraction": 0.8,
+      "output_per_initial_cell": 0.8,
+      "increment_per_survivor": 1.0,
+      "stimulation_index": 3.0,
+      "reference_scenario": "challenged_control",
+      "output_ratio_to_challenged_control": 2.0
+    },
+    "complete_loss": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 0,
+      "basal_output": 0.0,
+      "stimulated_output": 0.0,
+      "incremental_output": 0.0,
+      "retained_abundance_fraction": 0.0,
+      "output_per_initial_cell": 0.0,
+      "increment_per_survivor": null,
+      "stimulation_index": null,
+      "reference_scenario": "challenged_control",
+      "output_ratio_to_challenged_control": 0.0
+    },
+    "secretory_injury_control": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 40,
+      "basal_output": 10.0,
+      "stimulated_output": 30.0,
+      "incremental_output": 20.0,
+      "retained_abundance_fraction": 0.4,
+      "output_per_initial_cell": 0.2,
+      "increment_per_survivor": 0.5,
+      "stimulation_index": 3.0,
+      "reference_scenario": "secretory_injury_control",
+      "output_ratio_to_challenged_control": 1.0
+    },
+    "secretory_preservation_same_abundance": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 40,
+      "basal_output": 20.0,
+      "stimulated_output": 60.0,
+      "incremental_output": 40.0,
+      "retained_abundance_fraction": 0.4,
+      "output_per_initial_cell": 0.4,
+      "increment_per_survivor": 1.0,
+      "stimulation_index": 3.0,
+      "reference_scenario": "secretory_injury_control",
+      "output_ratio_to_challenged_control": 2.0
+    }
+  },
+  "secretory_example_unchallenged_controls": {
+    "control": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 100,
+      "basal_output": 50.0,
+      "stimulated_output": 150.0,
+      "incremental_output": 100.0,
+      "retained_abundance_fraction": 1.0,
+      "output_per_initial_cell": 1.0,
+      "increment_per_survivor": 1.0,
+      "stimulation_index": 3.0
+    },
+    "edited": {
+      "initial_beta_cells": 100,
+      "live_beta_cells": 100,
+      "basal_output": 50.0,
+      "stimulated_output": 150.0,
+      "incremental_output": 100.0,
+      "retained_abundance_fraction": 1.0,
+      "output_per_initial_cell": 1.0,
+      "increment_per_survivor": 1.0,
+      "stimulation_index": 3.0
+    },
+    "edit_by_challenge_difference_in_F": 0.2
+  },
+  "interpretation": "Product output, abundance and survivor-preservation claims are separate. No adequate-output threshold is assigned to these examples.",
+  "checks": {
+    "counterexample_same_index": true,
+    "double_retained_abundance": true,
+    "twenty_percent_less_output": true,
+    "preserved_per_cell_double_output": true,
+    "complete_loss_not_dropped": true,
+    "factorization_and_frontier": true,
+    "function_gain_without_extra_retention": true,
+    "matched_unchallenged_function_contrast": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "scored_universe_n": 11689,
+  "eligible_scored_n": 11104,
+  "candidate_genes_retained": [
+    "HIVEP2",
+    "RNLS",
+    "GCN1",
+    "MED11",
+    "ZBED3",
+    "ZNF28"
+  ],
+  "candidate_genes_lost": [],
+  "theta": 0.4209467171262089,
+  "inference": "descriptive restricted-background sensitivity; no replacement of primary test",
+  "boundary": "MGI homology classes can include multiple members; availability is not equivalent to comparable efficacy, expression or discovery survival; no full autoimmune count matrix."
+}

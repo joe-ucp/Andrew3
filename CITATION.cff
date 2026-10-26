@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this local research artifact together with its primary data sources."
+title: "Allogeneic screen performance and functional evidence for six autoimmune-screen beta-cell candidates"
+authors:
+  - name: "UCP Technology LLC"
+type: software
+version: "3.0.0"
+date-released: "2026-10-25"
+abstract: "A nominated-set enrichment analysis with six-gene null calibration, secondary matched-set analysis, uniform alias-aware literature searching and model-specific baseline functional observations across eleven discovery targets. No clinical endpoints were measured."

@@ -1,0 +1,242 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3ALGSN+OR+TITLE_ABS%3Alengsin+OR+TITLE_ABS%3AGLULD1%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3ALGSN+OR+TITLE_ABS%3Alengsin+OR+TITLE_ABS%3AGLULD1%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 6215,
+    "sha256": "d7b04e61b5f02fe3a28c0f68be7e9a4f2b3792e5d6ba17c52be7e8722d320a68",
+    "retrieved_utc": "2026-10-25T14:20:56.069962+00:00",
+    "filename": "data/raw/literature/revision20261025/LGSN_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3APLIN4+OR+TITLE_ABS%3A%22perilipin+4%22+OR+TITLE_ABS%3A%22S3-12%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3APLIN4+OR+TITLE_ABS%3A%22perilipin+4%22+OR+TITLE_ABS%3A%22S3-12%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 175915,
+    "sha256": "f771439423b466209015b887e5c0a962e99259ba3de7c19e92bf2efd5d650d13",
+    "retrieved_utc": "2026-10-25T14:20:57.361231+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN4_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3ATGM6+OR+TITLE_ABS%3A%22transglutaminase+6%22+OR+TITLE_ABS%3ATGM3L%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3ATGM6+OR+TITLE_ABS%3A%22transglutaminase+6%22+OR+TITLE_ABS%3ATGM3L%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 8642,
+    "sha256": "c03038f5ce2abcf33ee5f76199faec2985f6ceee962fbbbf26a9b4a5521d021f",
+    "retrieved_utc": "2026-10-25T14:20:57.961577+00:00",
+    "filename": "data/raw/literature/revision20261025/TGM6_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3AGRM2+OR+TITLE_ABS%3AmGluR2+OR+TITLE_ABS%3AmGlu2+OR+TITLE_ABS%3AGPRC1B%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3AGRM2+OR+TITLE_ABS%3AmGluR2+OR+TITLE_ABS%3AmGlu2+OR+TITLE_ABS%3AGPRC1B%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 176159,
+    "sha256": "79cc904535ce07a05bcf6420e8f752ad2f48cfd02b83d58b45b30a52c58e560e",
+    "retrieved_utc": "2026-10-25T14:20:59.076127+00:00",
+    "filename": "data/raw/literature/revision20261025/GRM2_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3AOlfr909+OR+TITLE_ABS%3AOr8b47+OR+TITLE_ABS%3AOlfr911+OR+TITLE_ABS%3A%22MOR165-1%22+OR+TITLE_ABS%3A%22MOR166-1%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3AOlfr909+OR+TITLE_ABS%3AOr8b47+OR+TITLE_ABS%3AOlfr911+OR+TITLE_ABS%3A%22MOR165-1%22+OR+TITLE_ABS%3A%22MOR166-1%22%29+AND+%28TITLE_ABS%3Ainsulin+OR+TITLE_ABS%3Aislet+OR+TITLE_ABS%3Abeta-cell%29%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 379,
+    "sha256": "b10c8c35b857bc13a4681297d2417d928d9085ea0a75bc0d1c8dfa30f364880f",
+    "retrieved_utc": "2026-10-25T14:21:00.595695+00:00",
+    "filename": "data/raw/literature/revision20261025/Or8b47_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A11935156+AND+SRC%3AMED%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A11935156+AND+SRC%3AMED%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 7755,
+    "sha256": "52fd98e280f71af99d36724149b2ff3475370b7914f95c6acc769cae92f4dc11",
+    "retrieved_utc": "2026-10-25T14:21:01.175270+00:00",
+    "filename": "data/raw/literature/revision20261025/Brice2002_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1038%2Fs41598-021-98792-1%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1038%2Fs41598-021-98792-1%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 11301,
+    "sha256": "203b06866fca6c45a43bf33a0ee7adbb220259b163293908bf589e99c60141b5",
+    "retrieved_utc": "2026-10-25T14:21:01.787800+00:00",
+    "filename": "data/raw/literature/revision20261025/TGM6context2021_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8639975/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8639975/fullTextXML",
+    "bytes": 151865,
+    "sha256": "864724284a51b61a5ea804086553bc34f0a6a2010c9a1e385c615ce3d1f48f92",
+    "retrieved_utc": "2026-10-25T14:21:02.814906+00:00",
+    "filename": "data/raw/literature/revision20261025/TGM6context2021.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PMCID%3APMC4375085%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PMCID%3APMC4375085%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 10155,
+    "sha256": "6444ed64eaad5a5557246184d46285058ff820214982d6ae446ced322b29541f",
+    "retrieved_utc": "2026-10-25T14:21:03.387853+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN5context2015_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4375085/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4375085/fullTextXML",
+    "bytes": 117982,
+    "sha256": "b23f28bb568a02280436d152c59fb36217ca363d29cf479f001956fafe3dcc6b",
+    "retrieved_utc": "2026-10-25T14:21:04.465201+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN5context2015.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A41391763+AND+SRC%3AMED%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A41391763+AND+SRC%3AMED%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 12301,
+    "sha256": "9745093fef66d47f67cc9483846429c21d364fd5f89756e0b82a1f5ba398864c",
+    "retrieved_utc": "2026-10-25T14:21:05.129444+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN4context2026_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12809094/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12809094/fullTextXML",
+    "bytes": 193217,
+    "sha256": "aa84060889facd7f8f729840254b684a3664cc2edcb0586b9c26edaa6a324ec3",
+    "retrieved_utc": "2026-10-25T14:21:07.050089+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN4context2026.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PMCID%3APMC3625749%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PMCID%3APMC3625749%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 9000,
+    "sha256": "a1953140112d741b35362b596f38aa8449458a07b2dee990963c58999ee7ec0b",
+    "retrieved_utc": "2026-10-25T14:21:07.701093+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN4context2013_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1136%2Fbmj.n71%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1136%2Fbmj.n71%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 12887,
+    "sha256": "72eb811fc2914f2aedd5d415bc9c81f949915e3d10762854d37b0304ed1f8a93",
+    "retrieved_utc": "2026-10-25T14:21:08.955177+00:00",
+    "filename": "data/raw/literature/revision20261025/PRISMA2020_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8005924/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8005924/fullTextXML",
+    "bytes": 138678,
+    "sha256": "c5e3b4a1892f0cb97ea0360d5e5b4b51ab4ea8b4e8ddabe7b441b5d464f18758",
+    "retrieved_utc": "2026-10-25T14:21:10.148499+00:00",
+    "filename": "data/raw/literature/revision20261025/PRISMA2020.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1186%2Fs13643-020-01542-z%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1186%2Fs13643-020-01542-z%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 11146,
+    "sha256": "2c53308cb1eb8c24046e7b48fc0f6b9a18c547f3967f48141c45fb47f96c8e57",
+    "retrieved_utc": "2026-10-25T14:21:10.852101+00:00",
+    "filename": "data/raw/literature/revision20261025/PRISMAS2021_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7839230/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7839230/fullTextXML",
+    "bytes": 226044,
+    "sha256": "e5c1036e41ce4be10864f830be8d9e38b277ab0b656c623675bedb813432ca8e",
+    "retrieved_utc": "2026-10-25T14:21:11.861481+00:00",
+    "filename": "data/raw/literature/revision20261025/PRISMAS2021.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1177%2F1948550617697177%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28DOI%3A10.1177%2F1948550617697177%29+AND+FIRST_PDATE%3A%5B%2A+TO+2026-10-25%5D&format=json&resultType=core&pageSize=1000",
+    "bytes": 4236,
+    "sha256": "2f4ce01a328afbf5e6aa73019aa2c9c76b57f6da2d1e253f1b22213878521d5f",
+    "retrieved_utc": "2026-10-25T14:21:12.431792+00:00",
+    "filename": "data/raw/literature/revision20261025/Lakens2017_search.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5502906/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5502906/fullTextXML",
+    "bytes": 101020,
+    "sha256": "13b10764c494385e99f54096032ca81d329cf9fd629f73ca5f77958955b5d1aa",
+    "retrieved_utc": "2026-10-25T14:21:13.555255+00:00",
+    "filename": "data/raw/literature/revision20261025/Lakens2017.xml",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=51557",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=51557",
+    "bytes": 3462,
+    "sha256": "ef1ea284c5506ccfacefcfbd24bbf8aec4871141fe2f2eb672cb5bb39405a51a",
+    "retrieved_utc": "2026-10-25T14:21:13.726330+00:00",
+    "filename": "data/raw/literature/revision20261025/LGSN_ncbi_gene.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=729359",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=729359",
+    "bytes": 3038,
+    "sha256": "c3fe6e5f42ea004f5f43866df8fcaeb736e46f4d94d45ef88e14cd1618349581",
+    "retrieved_utc": "2026-10-25T14:21:14.268372+00:00",
+    "filename": "data/raw/literature/revision20261025/PLIN4_ncbi_gene.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=343641",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=343641",
+    "bytes": 3285,
+    "sha256": "69af3a0e99705d97ee29f59237e869d148314e7ba545f6bfebbff873aa9a449f",
+    "retrieved_utc": "2026-10-25T14:21:14.881691+00:00",
+    "filename": "data/raw/literature/revision20261025/TGM6_ncbi_gene.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=2912",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=2912",
+    "bytes": 3909,
+    "sha256": "f6f5e8713ae4e4167c6f6dc967a6c238419063f6c9a26680d4c8d53b5798667f",
+    "retrieved_utc": "2026-10-25T14:21:15.495989+00:00",
+    "filename": "data/raw/literature/revision20261025/GRM2_ncbi_gene.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  },
+  {
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=258873",
+    "final_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=258873",
+    "bytes": 1960,
+    "sha256": "afdd377ac5dc87f6d76a38237ef1c23d5cf32048d996582c6ea07921209d30eb",
+    "retrieved_utc": "2026-10-25T14:21:16.141007+00:00",
+    "filename": "data/raw/literature/revision20261025/Or8b47_ncbi_gene.json",
+    "role": "Revision literature search, primary contextual or method source, or authoritative gene metadata",
+    "access_note": "Publicly accessible source snapshot; original rights retained; not new biological validation"
+  }
+]

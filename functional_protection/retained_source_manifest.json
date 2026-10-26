@@ -1,0 +1,86 @@
+[
+  {
+    "filename": "Yoshihara2020.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7872080/fullTextXML",
+    "retrieved_utc": "2026-10-25T16:54:52.174692+00:00",
+    "status": "retrieved",
+    "bytes": 141817,
+    "sha256": "358d1e700efd87b92f9add689e4382fae67f0e18a59acb7ff78f85178c270db4"
+  },
+  {
+    "filename": "Gerace2023.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9873825/fullTextXML",
+    "retrieved_utc": "2026-10-25T16:54:52.174692+00:00",
+    "status": "retrieved",
+    "bytes": 191703,
+    "sha256": "bac2179ce8fb4e1583731830275e66801044ad0f5e7c798488b232c91d2fc59e"
+  },
+  {
+    "filename": "Hu2024_NHP.pdf",
+    "url": "https://jinsoolim.com/wp-content/uploads/2024/02/sana-biotechnology-hypoimmune-islets-achieve-insulin-independence-after-allogeneic-transplantation-in-nhp_cell-stem-cell-2024.pdf",
+    "retrieved_utc": "2026-10-25T16:54:52.174692+00:00",
+    "status": "retrieved",
+    "bytes": 4255415,
+    "sha256": "f5415f22b2928dc00f98f31dad4eaa49141143c74713817294067525b73a089b"
+  },
+  {
+    "filename": "Reichman2025_core.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:40544428&format=json&resultType=core&pageSize=10",
+    "retrieved_utc": "2026-10-25T16:54:52.175689+00:00",
+    "status": "retrieved",
+    "bytes": 14838,
+    "sha256": "122e0e745765541fe78fbf1fe1566ddf5b13f57146b336a8b5fcc70713a2dcae"
+  },
+  {
+    "filename": "Hu2023_NatBiotech.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10940156/fullTextXML",
+    "retrieved_utc": "2026-10-25T16:51:41.876457+00:00",
+    "status": "retrieved",
+    "bytes": 143597,
+    "sha256": "f211df6e0116e2ef25833c29005fb8f0d937b7dd0f70d762b9b6c8d8b85117f9"
+  },
+  {
+    "filename": "NCT06239636.json",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT06239636",
+    "retrieved_utc": "2026-10-25T16:51:41.876457+00:00",
+    "status": "retrieved",
+    "bytes": 11504,
+    "sha256": "f15daa7aaa14d70b2893e1d71fd094d96e7722d65d66c14169d2f253d307c652"
+  },
+  {
+    "filename": "core_records.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38335966%20OR%20EXT_ID:37043559%20OR%20EXT_ID:40757665%20OR%20EXT_ID:42430558&format=json&resultType=core&pageSize=10",
+    "retrieved_utc": "2026-10-25T16:51:41.877455+00:00",
+    "status": "retrieved",
+    "bytes": 29889,
+    "sha256": "dca2f2726e25cb9e079f716808c39d00379b9d2d8d2eb95e99d21390a9db25eb"
+  },
+  {
+    "filename": "NEJM2025_appendix.pdf",
+    "url": "https://www.nejm.org/doi/suppl/10.1056/NEJMoa2503822/suppl_file/nejmoa2503822_appendix.pdf",
+    "retrieved_utc": "2026-10-25T16:51:41.877455+00:00",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "filename": "NEJM2025_data-sharing.pdf",
+    "url": "https://www.nejm.org/doi/suppl/10.1056/NEJMoa2503822/suppl_file/nejmoa2503822_data-sharing.pdf",
+    "retrieved_utc": "2026-10-25T16:51:41.878455+00:00",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "filename": "NEJM2026_appendix.pdf",
+    "url": "https://www.nejm.org/doi/suppl/10.1056/NEJMc2604408/suppl_file/nejmc2604408_appendix.pdf",
+    "retrieved_utc": "2026-10-25T16:51:41.878455+00:00",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "filename": "NEJM2026_data-sharing.pdf",
+    "url": "https://www.nejm.org/doi/suppl/10.1056/NEJMc2604408/suppl_file/nejmc2604408_data-sharing.pdf",
+    "retrieved_utc": "2026-10-25T16:51:41.879454+00:00",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

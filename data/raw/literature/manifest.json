@@ -1,0 +1,242 @@
+[
+  {
+    "source_id": "cai2020",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7502486/fullTextXML",
+    "filename": "data\\raw\\literature\\cai2020.xml",
+    "sha256": "cc810fc47e7a12b00dfe3cf722ac97b4481f1e83a1c6b1b00e688b828633a4ad",
+    "retrieved_utc": "2026-10-25T03:32:10.178177+00:00",
+    "access_license_note": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+  },
+  {
+    "source_id": "sintov2022",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9481918/fullTextXML",
+    "filename": "data\\raw\\literature\\sintov2022.xml",
+    "sha256": "ca79edb74a1e36b28c7692c11cfd41f4b3bfe8eb627510b10dd4a5dfe35516ff",
+    "retrieved_utc": "2026-10-25T03:32:11.154718+00:00",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "karaoglu2026",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12909247/fullTextXML",
+    "filename": "data\\raw\\literature\\karaoglu2026.xml",
+    "sha256": "18a5dddcb4e8f5f24eec26346c6bf8865426737ccf204b0c65a73c6c9de27f61",
+    "retrieved_utc": "2026-10-25T03:32:12.303977+00:00",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "rnls2025",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11981795/fullTextXML",
+    "filename": "data\\raw\\literature\\rnls2025.xml",
+    "sha256": "83544a0104a00d55b97e3fef2f8f244c380d60541fef52b0d303095179018916",
+    "retrieved_utc": "2026-10-25T03:32:13.310458+00:00",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "cai2020_fig1.png",
+    "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42255-020-0254-1/MediaObjects/42255_2020_254_Fig1_HTML.png",
+    "filename": "data\\raw\\literature\\cai2020_fig1.png",
+    "sha256": "2ed7aac1e0ec6e6269aed4af6446a3239c382842d6ed214e04031fae8fda1530",
+    "retrieved_utc": "2026-10-25T03:33:16.639386+00:00",
+    "access_license_note": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+  },
+  {
+    "source_id": "sintov2022_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9481918/supplementaryFiles",
+    "filename": "data\\raw\\literature\\sintov2022_supplementary.zip",
+    "sha256": "8525f1fb64bededdbf3d1bef95b7f282545b5c961938f39e8bf480c1b5482987",
+    "retrieved_utc": "2026-10-25T03:33:22.758013+00:00",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "rnls2025_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11981795/supplementaryFiles",
+    "filename": "data\\raw\\literature\\rnls2025_supplementary.zip",
+    "sha256": "7bab87461d7feb43769cce2eaf17b9c286f1f89a3996b96e92bec14d13581071",
+    "retrieved_utc": "2026-10-25T03:33:25.814447+00:00",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "cai2020_supplementary",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7502486/supplementaryFiles",
+    "filename": "data\\raw\\literature\\cai2020_supplementary.zip",
+    "sha256": "9a69eb20b24a54f9e0e5a07cfc7284336937ea8439fbf4a1188bb78bf3151b2e",
+    "retrieved_utc": "2026-10-25T03:34:29.792135+00:00",
+    "access_license_note": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+  },
+  {
+    "source_id": "karaoglu2026_supplementary",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12909247/supplementaryFiles",
+    "filename": "data\\raw\\literature\\karaoglu2026_supplementary.zip",
+    "sha256": "234518da95963bf2c2384c3645460fbc65ef0b2487f40bcffe74de7c7eef6f27",
+    "retrieved_utc": "2026-10-25T03:34:42.974879+00:00",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "cai2020",
+    "filename": "data/raw/literature/cai2020.txt",
+    "sha256": "ff1881e8c896ce651cd9af36280fe8e5960aa474d23211c58aac48415eb5519d",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "cai2020",
+    "access_license_note": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+  },
+  {
+    "source_id": "karaoglu2026",
+    "filename": "data/raw/literature/karaoglu2026.txt",
+    "sha256": "c806499c0742f7f00bd79e1f88ba5e4eada42cf0faa05e708320abec404f0159",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "rnls2025",
+    "filename": "data/raw/literature/rnls2025.txt",
+    "sha256": "4c94fa7b2ba381ed1fecad873e93f681d80411cf47f321a3188c5b41e910d3d3",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "rnls2025",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "sintov2022",
+    "filename": "data/raw/literature/sintov2022.txt",
+    "sha256": "e79285e227ed084d22e17b2e5839dcd268bf9bb4430295a090d311d9736a8fdc",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "sintov2022",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "nihms-1607351-f0012",
+    "filename": "data/raw/literature/cai2020/nihms-1607351-f0012.jpg",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "cai2020",
+    "access_license_note": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+  },
+  {
+    "source_id": "fimmu-17-1759835-g001",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g001.jpg",
+    "sha256": "3c5706134110da4c516f2391ab509285028405360efa383426d6ca0f3f55e773",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g002",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g002.jpg",
+    "sha256": "e7c0d63b4fdf53a45bd6694faf00480121be814317677ff1b0d534f2fef7ab69",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g003",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g003.jpg",
+    "sha256": "b9c58f8d9eee03d7b565c78b988864901b3667d02d8856433bb9977381b8e6e4",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g004",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g004.jpg",
+    "sha256": "5a0de890db638c3b1cf73cf202be47378314975e98cf6f429e9aadfee5e04f02",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g005",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g005.jpg",
+    "sha256": "e71866193ac80763228fd6d5cca45d7e26d138f49b1709bfaf2fd629b25cf61c",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g006",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g006.jpg",
+    "sha256": "aaa10b135a591655bafa9d5f671745d14f34a4dd8fd362f9077c6ceb945b32d2",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g007",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g007.jpg",
+    "sha256": "436e605399cbf0d8e5fa688cdb3d496c0cfc9944491994215912ddd3a2e0aca1",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g008",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g008.jpg",
+    "sha256": "aeff584c7cd0fbd77c2027f09023fbab685269624799028173d64cd678a26f58",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "fimmu-17-1759835-g009",
+    "filename": "data/raw/literature/karaoglu2026/fimmu-17-1759835-g009.jpg",
+    "sha256": "2296128b0842761d7971924296889c9a39c18f201c99bed2cbb335a9f8bd7146",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "karaoglu2026",
+    "access_license_note": "Copyright © 2026 Karaoglu, Odabas, Önder and Kizilel. 2026 Karaoglu, Odabas, Önder and Kizilel https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  },
+  {
+    "source_id": "mmc1",
+    "filename": "data/raw/literature/rnls2025/mmc1.pdf",
+    "sha256": "a12a3657fc32bb3fa89fb9b8324eba51f688e346ad443647921bec9aa35d79ef",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "rnls2025",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "mmc1",
+    "filename": "data/raw/literature/rnls2025/mmc1.txt",
+    "sha256": "9533a52632bae77bda97753b6776401569cf64a4ff7134ffac16e87c23c6f889",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "rnls2025",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "mmc1_page7",
+    "filename": "data/raw/literature/rnls2025/mmc1_page7.png",
+    "sha256": "59fc433d74163f389f54d5f0d655be2a9bb0646c8b8b325a8f446a934966f0fb",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "rnls2025",
+    "access_license_note": "© 2025 The Authors 2025 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)."
+  },
+  {
+    "source_id": "mmc1",
+    "filename": "data/raw/literature/sintov2022/mmc1.pdf",
+    "sha256": "98ed0fb523937022938d06db7843d3a361ab1fd5b63a54ef598775448ba7d02f",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "sintov2022",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "mmc1",
+    "filename": "data/raw/literature/sintov2022/mmc1.txt",
+    "sha256": "9e2c0129f5a36eaff143e69bc144b300c8a7264e4b70db50bf6b73ce2ac83e3e",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "sintov2022",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "mmc1_page8",
+    "filename": "data/raw/literature/sintov2022/mmc1_page8.png",
+    "sha256": "b0631cf6379320f36b501c8b5f60051663860c0d9e24e56e6adfac575a4044ef",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "sintov2022",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "source_id": "mmc4",
+    "filename": "data/raw/literature/sintov2022/mmc4.pdf",
+    "sha256": "8f6bfc0f76c6456b52e384f22ca86155dd6b07fa1fc49fc798b31c0e729a85dc",
+    "derivation": "locally extracted text, figure from frozen archive, or rendering of frozen source PDF",
+    "parent_source": "sintov2022",
+    "access_license_note": "© 2022 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  }
+]

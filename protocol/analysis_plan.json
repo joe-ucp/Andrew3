@@ -1,0 +1,56 @@
+{
+  "analysis_id": "fixed_candidate_transfer",
+  "created_utc": "2026-10-25T03:32:56.588777+00:00",
+  "original_candidate_labels": [
+    "Hivep2",
+    "Rnls",
+    "Gcn1l1",
+    "Med11",
+    "Zbed3",
+    "Gm3604",
+    "Lgsn",
+    "Plin4",
+    "Tgm6",
+    "Grm2",
+    "Olfr909"
+  ],
+  "primary_human_candidates": [
+    "HIVEP2",
+    "RNLS",
+    "GCN1",
+    "MED11",
+    "ZBED3",
+    "ZNF28"
+  ],
+  "candidate_mapping": {
+    "Hivep2": "HIVEP2",
+    "Rnls": "RNLS",
+    "Gcn1l1": "GCN1",
+    "Med11": "MED11",
+    "Zbed3": "ZBED3",
+    "Gm3604": "ZNF28",
+    "Lgsn": "LGSN",
+    "Plin4": "PLIN4",
+    "Tgm6": "TGM6",
+    "Grm2": "GRM2",
+    "Olfr909": null
+  },
+  "expected_universe_size": 11689,
+  "primary_draws": 1000000,
+  "rng": "PCG64",
+  "seed": 20261025,
+  "alternative": "greater",
+  "alpha": 0.05,
+  "statistic": "mean tie-aware pairwise superiority of candidates over all other scored genes",
+  "p_value": "(1 + null statistics >= observed)/(1 + draws)",
+  "null": "uniform candidate-sized subsets without replacement from entire scored universe",
+  "sensitivities": [
+    "exclude ZNF28",
+    "leave each candidate out",
+    "exclude RNLS and HIVEP2"
+  ],
+  "candidate_supported_rule": "signed published score > 0 and 10**(-published_neg_log10_FDR) <= .05",
+  "source_workbook_sha256": "d08660be0403e60f7ea8f2f025ae1d922862d4c4922fb5c0a6e8a3c9ac0920a8",
+  "scope": "finite published table; no clinical or causal transfer interpretation",
+  "freeze_note": "Specified before candidate-score inspection in this analysis; candidate coverage had previously been examined. No external preregistration."
+}

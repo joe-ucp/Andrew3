@@ -1,0 +1,29 @@
+# Private working files, including all nested copies.
+/_UCP/
+**/_ucp/
+**/_UCP/
+
+# Local runtimes, caches and temporary render files.
+**/__pycache__/
+*.pyc
+.venv/
+tmp/
+output/
+# Per-run acquisition report; the public acquisition test receipt is retained.
+/evidence/provider_acquisition.json
+manuscript/*.log
+manuscript/*.aux
+manuscript/*.out
+
+# Original third-party inputs remain in the declared source cache.
+data/raw/**
+!data/raw/literature/
+!data/raw/literature/manifest.json
+!data/raw/literature/revision20261025/
+!data/raw/literature/revision20261025/manifest.json
+!data/raw/literature/uniform20261025/
+!data/raw/literature/uniform20261025/manifest.json
+!data/raw/literature/revision3_citations/
+!data/raw/literature/revision3_citations/manifest.json
+!data/raw/literature/bode2023_final/
+!data/raw/literature/bode2023_final/manifest.json

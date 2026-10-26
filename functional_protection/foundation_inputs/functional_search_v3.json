@@ -1,0 +1,252 @@
+{
+  "analysis_id": "uniform_eleven_target_search",
+  "frozen_utc": "2026-10-25T15:24:55.983263+00:00",
+  "status": "frozen before uniform literature queries",
+  "outcomes_known": "Primary statistics and existing functional map known; no statistical changes",
+  "database": "Europe PMC REST search, resultType=core",
+  "fields": "TITLE_ABS for every alias/context/function term",
+  "date_boundary": "FIRST_PDATE:[* TO 2026-10-25], no lower bound",
+  "same_context_terms": [
+    "insulin",
+    "islet*",
+    "\"beta cell\"",
+    "\"beta cells\"",
+    "\"beta-cell\"",
+    "\"beta-cells\"",
+    "\"pancreatic endocrine\""
+  ],
+  "same_function_terms": [
+    "secret*",
+    "function*",
+    "glucose",
+    "GSIS",
+    "protect*",
+    "immun*",
+    "\"stimulus secretion\""
+  ],
+  "alias_policy": "Union of official symbol, original discovery label, description and aliases from frozen NCBI human and mouse Gene metadata. Case-insensitive duplicates removed. Broad/ambiguous aliases remain retrieval terms and require identity verification. Original committed mapping is not changed.",
+  "ambiguous_aliases": [
+    "LGS may represent non-lengsin acronyms",
+    "GRM2 metadata aliases GLUR2/mGluR7 may retrieve GRIA2/GRM7; those genes are excluded as different targets",
+    "Gm3604 is searched alongside ZNF28 without asserting improved orthology"
+  ],
+  "pagination": {
+    "page_size": 1000,
+    "maximum_per_target": 1000,
+    "order": "Europe PMC default search order",
+    "rule": "Retrieve all results if hitCount <=1000. If greater, retain and screen first1000 and report cap as limitation; do not claim exhaustive retrieval."
+  },
+  "screening": [
+    "Screen every retrieved title and available abstract; retain source, identifier and all target memberships through deduplication.",
+    "Follow exact-target perturbation plus possible beta-cell/islet secretion or immune-protection leads to available primary full text/supplements; acknowledge baseline observed responsiveness without requiring formal noninferiority.",
+    "Include source-resolved beta-cell/islet secreted-insulin measurements for identifiable exact-target perturbation; distinguish baseline versus immune challenge, model, editing, observed response and comparator result.",
+    "Retain protection without secretion as a separate endpoint.",
+    "Exclude association/expression/content proxies, systemic-only metabolism, nonselective pharmacology, paralog interventions and unrelated tissues as exact-target beta-cell secretion evidence; retain contextual leads and reasons.",
+    "Missing abstract/full text, ambiguous target identity or endpoint stays unresolved when information cannot resolve eligibility.",
+    "No qualifying comparison located means only within specified retrieval boundary; no biological absence or systematic-review claim."
+  ],
+  "separate_citation_protocol": "protocol/revision3_citation_plan.json",
+  "storage": "data/raw/literature/uniform20261025; immutable raw files, URL/UTC/bytes/SHA256 manifest; evidence/literature_search.json appended uniform section",
+  "cohort": "All11 functional literature targets; original6 quantitative cohort unchanged",
+  "targets": [
+    {
+      "target": "HIVEP2",
+      "original_mouse_label": "Hivep2",
+      "aliases": [
+        "HIVEP2",
+        "HIVEP zinc finger 2",
+        "HIV-EP2",
+        "MBP-2",
+        "MIBP1",
+        "MRD43",
+        "SHN2",
+        "ZAS2",
+        "ZNF40B",
+        "human immunodeficiency virus type I enhancer binding protein 2",
+        "Gm20114",
+        "MIBP-1",
+        "Schnurri-2",
+        "Shn-2"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/HIVEP2_human_gene.json",
+        "data/raw/literature/uniform20261025/Hivep2_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"HIVEP2\" OR TITLE_ABS:\"HIVEP zinc finger 2\" OR TITLE_ABS:\"HIV-EP2\" OR TITLE_ABS:\"MBP-2\" OR TITLE_ABS:\"MIBP1\" OR TITLE_ABS:\"MRD43\" OR TITLE_ABS:\"SHN2\" OR TITLE_ABS:\"ZAS2\" OR TITLE_ABS:\"ZNF40B\" OR TITLE_ABS:\"human immunodeficiency virus type I enhancer binding protein 2\" OR TITLE_ABS:\"Gm20114\" OR TITLE_ABS:\"MIBP-1\" OR TITLE_ABS:\"Schnurri-2\" OR TITLE_ABS:\"Shn-2\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "RNLS",
+      "original_mouse_label": "Rnls",
+      "aliases": [
+        "RNLS",
+        "renalase, FAD dependent amine oxidase",
+        "C10orf59",
+        "RENALASE",
+        "renalase, FAD-dependent amine oxidase",
+        "6530404N21Rik"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/RNLS_human_gene.json",
+        "data/raw/literature/uniform20261025/Rnls_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"RNLS\" OR TITLE_ABS:\"renalase, FAD dependent amine oxidase\" OR TITLE_ABS:\"C10orf59\" OR TITLE_ABS:\"RENALASE\" OR TITLE_ABS:\"renalase, FAD-dependent amine oxidase\" OR TITLE_ABS:\"6530404N21Rik\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "GCN1",
+      "original_mouse_label": "Gcn1l1",
+      "aliases": [
+        "GCN1",
+        "Gcn1l1",
+        "GCN1 activator of EIF2AK4",
+        "GCN1L",
+        "PRIC295",
+        "4932409G22",
+        "G431004K08Rik",
+        "mKIAA0219"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/GCN1_human_gene.json",
+        "data/raw/literature/uniform20261025/Gcn1_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"GCN1\" OR TITLE_ABS:\"Gcn1l1\" OR TITLE_ABS:\"GCN1 activator of EIF2AK4\" OR TITLE_ABS:\"GCN1L\" OR TITLE_ABS:\"PRIC295\" OR TITLE_ABS:\"4932409G22\" OR TITLE_ABS:\"G431004K08Rik\" OR TITLE_ABS:\"mKIAA0219\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "MED11",
+      "original_mouse_label": "Med11",
+      "aliases": [
+        "MED11",
+        "mediator complex subunit 11",
+        "HSPC296",
+        "NDDRSB",
+        "1110030J09Rik"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/MED11_human_gene.json",
+        "data/raw/literature/uniform20261025/Med11_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"MED11\" OR TITLE_ABS:\"mediator complex subunit 11\" OR TITLE_ABS:\"HSPC296\" OR TITLE_ABS:\"NDDRSB\" OR TITLE_ABS:\"1110030J09Rik\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "ZBED3",
+      "original_mouse_label": "Zbed3",
+      "aliases": [
+        "ZBED3",
+        "zinc finger BED-type containing 3",
+        "zinc finger, BED type containing 3",
+        "0610037K01Rik",
+        "2610005H11Rik"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/ZBED3_human_gene.json",
+        "data/raw/literature/uniform20261025/Zbed3_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"ZBED3\" OR TITLE_ABS:\"zinc finger BED-type containing 3\" OR TITLE_ABS:\"zinc finger, BED type containing 3\" OR TITLE_ABS:\"0610037K01Rik\" OR TITLE_ABS:\"2610005H11Rik\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "ZNF28",
+      "original_mouse_label": "Gm3604",
+      "aliases": [
+        "ZNF28",
+        "Gm3604",
+        "zinc finger protein 28",
+        "KOX24",
+        "predicted gene 3604"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/ZNF28_human_gene.json",
+        "data/raw/literature/uniform20261025/Gm3604_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"ZNF28\" OR TITLE_ABS:\"Gm3604\" OR TITLE_ABS:\"zinc finger protein 28\" OR TITLE_ABS:\"KOX24\" OR TITLE_ABS:\"predicted gene 3604\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "LGSN",
+      "original_mouse_label": "Lgsn",
+      "aliases": [
+        "LGSN",
+        "lengsin, lens protein with glutamine synthetase domain",
+        "GLULD1",
+        "LGS",
+        "lengsin"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/LGSN_human_gene.json",
+        "data/raw/literature/uniform20261025/Lgsn_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"LGSN\" OR TITLE_ABS:\"lengsin, lens protein with glutamine synthetase domain\" OR TITLE_ABS:\"GLULD1\" OR TITLE_ABS:\"LGS\" OR TITLE_ABS:\"lengsin\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "PLIN4",
+      "original_mouse_label": "Plin4",
+      "aliases": [
+        "PLIN4",
+        "perilipin 4",
+        "KIAA1881",
+        "MDRV",
+        "MRUPAV",
+        "S3-12",
+        "mKIAA1881"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/PLIN4_human_gene.json",
+        "data/raw/literature/uniform20261025/Plin4_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"PLIN4\" OR TITLE_ABS:\"perilipin 4\" OR TITLE_ABS:\"KIAA1881\" OR TITLE_ABS:\"MDRV\" OR TITLE_ABS:\"MRUPAV\" OR TITLE_ABS:\"S3-12\" OR TITLE_ABS:\"mKIAA1881\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "TGM6",
+      "original_mouse_label": "Tgm6",
+      "aliases": [
+        "TGM6",
+        "transglutaminase 6",
+        "SCA35",
+        "TG6",
+        "TGM3L",
+        "TGY",
+        "dJ734P14.3"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/TGM6_human_gene.json",
+        "data/raw/literature/uniform20261025/Tgm6_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"TGM6\" OR TITLE_ABS:\"transglutaminase 6\" OR TITLE_ABS:\"SCA35\" OR TITLE_ABS:\"TG6\" OR TITLE_ABS:\"TGM3L\" OR TITLE_ABS:\"TGY\" OR TITLE_ABS:\"dJ734P14.3\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "GRM2",
+      "original_mouse_label": "Grm2",
+      "aliases": [
+        "GRM2",
+        "glutamate metabotropic receptor 2",
+        "GLUR2",
+        "GPRC1B",
+        "MGLUR2",
+        "mGlu2",
+        "glutamate receptor, metabotropic 2",
+        "4930441L02Rik",
+        "mGluR7",
+        "G protein coupled receptor, family C, group 1, member B"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/GRM2_human_gene.json",
+        "data/raw/literature/uniform20261025/Grm2_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"GRM2\" OR TITLE_ABS:\"glutamate metabotropic receptor 2\" OR TITLE_ABS:\"GLUR2\" OR TITLE_ABS:\"GPRC1B\" OR TITLE_ABS:\"MGLUR2\" OR TITLE_ABS:\"mGlu2\" OR TITLE_ABS:\"glutamate receptor, metabotropic 2\" OR TITLE_ABS:\"4930441L02Rik\" OR TITLE_ABS:\"mGluR7\" OR TITLE_ABS:\"G protein coupled receptor, family C, group 1, member B\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    },
+    {
+      "target": "Or8b47",
+      "original_mouse_label": "Olfr909",
+      "aliases": [
+        "Or8b47",
+        "Olfr909",
+        "olfactory receptor family 8 subfamily B member 47",
+        "MOR165-1",
+        "MOR166-1",
+        "Olfr911",
+        "Olfr911-ps1"
+      ],
+      "authority_files": [
+        "data/raw/literature/uniform20261025/Or8b47_mouse_gene.json"
+      ],
+      "exact_query": "(TITLE_ABS:\"Or8b47\" OR TITLE_ABS:\"Olfr909\" OR TITLE_ABS:\"olfactory receptor family 8 subfamily B member 47\" OR TITLE_ABS:\"MOR165-1\" OR TITLE_ABS:\"MOR166-1\" OR TITLE_ABS:\"Olfr911\" OR TITLE_ABS:\"Olfr911-ps1\") AND (TITLE_ABS:insulin OR TITLE_ABS:islet* OR TITLE_ABS:\"beta cell\" OR TITLE_ABS:\"beta cells\" OR TITLE_ABS:\"beta-cell\" OR TITLE_ABS:\"beta-cells\" OR TITLE_ABS:\"pancreatic endocrine\") AND (TITLE_ABS:secret* OR TITLE_ABS:function* OR TITLE_ABS:glucose OR TITLE_ABS:GSIS OR TITLE_ABS:protect* OR TITLE_ABS:immun* OR TITLE_ABS:\"stimulus secretion\") AND FIRST_PDATE:[* TO 2026-10-25]"
+    }
+  ]
+}

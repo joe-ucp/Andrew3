@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "verified_utc": "2026-10-26T01:38:49.591126+00:00",
+  "scope": "Public-checkout regeneration of hypothetical examples, figure and editable manuscript; citation-only manuscript correction; no biological validation",
+  "analytical_checks": 8,
+  "biological_experiments": 0,
+  "files_compared": {
+    "analysis_results.json": true,
+    "analytical_examples.csv": true,
+    "paper_content.json": true,
+    "figures/survival_function.pdf": true,
+    "figures/survival_function.png": true
+  },
+  "Word_XML_parts_compared": 14,
+  "all_Word_XML_parts_match": true,
+  "visual_review": {
+    "pages": 10,
+    "all_pages_inspected": true,
+    "findings": "No clipping, overlap, unreadable figure labels or broken tables"
+  },
+  "paper_pdf_sha256": "d44dda9525fca98b10b06526d0cc41ae6a294472c6bf7b92b2d4d1e90e6f05a9",
+  "paper_docx_sha256": "e8111864c4f9eca30ece90e5bcccbe0a5c306bbb19f4e75b18c2b1e2022796e2",
+  "common_content_sha256": "8c38c5e2630ea4f1600706238f28cb6da8711a7fd37d877411f200de52a17326",
+  "PDF_generated_from_Word": true,
+  "PDF_regenerated_in_clean_copy": false,
+  "foundation_manuscripts_unchanged": true,
+  "citation_correction": {
+    "reference": 10,
+    "first_author": "Molano RD",
+    "pmid": "38485229",
+    "doi": "10.1136/bmjdrc-2023-003897"
+  },
+  "foundation_reconstruction": "See ../README.md and ../docs/provider_reconstruction.md; no archive dependency"
+}

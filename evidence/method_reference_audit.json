@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "verified_date_utc": "2026-10-25",
+  "scope": "Bibliographic identity and relevant methodological statements checked against primary publications; this record does not freeze complete article bytes or imply endorsement of the present application.",
+  "references": [
+    {
+      "citation": "Mann HB, Whitney DR. On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other. Ann Math Stat. 1947;18(1):50-60.",
+      "doi": "10.1214/aoms/1177730491",
+      "url": "https://doi.org/10.1214/aoms/1177730491",
+      "verification": "DOI resolves to Project Euclid. Original-paper abstract was available in indexed journal-PDF text; full PDF retrieval timed out and publisher full-text rendering exposed an iframe only.",
+      "use": "Names the familiar rank-based U statistic. The study's finite pairwise probability and tie convention are defined and checked directly, rather than attributed as a biological-probability claim to this paper."
+    },
+    {
+      "citation": "Greenland S, Senn SJ, Rothman KJ, Carlin JB, Poole C, Goodman SN, Altman DG. Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. Eur J Epidemiol. 2016;31:337-350.",
+      "doi": "10.1007/s10654-016-0149-3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+      "verification": "Primary article metadata and relevant model-assumption and nonsignificance discussion read.",
+      "use": "Supports separating a test's conditional reference from a probability of a scientific hypothesis and avoiding equivalence conclusions from nonsignificance."
+    },
+    {
+      "citation": "Wu D, Smyth GK. Camera: a competitive gene set test accounting for inter-gene correlation. Nucleic Acids Res. 2012;40(17):e133.",
+      "doi": "10.1093/nar/gks461",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3458527/",
+      "verification": "Primary article metadata, Introduction and Linear models/Genewise test statistics sections read.",
+      "use": "Illustrates that gene-label competitive references can be sensitive to gene correlation. The described correlation adjustment uses replicated measurements and a model; it is not reconstructed from the available published score vector. Conditional matching does not supply that correction."
+    },
+    {
+      "citation": "Lakens D. Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses. Soc Psychol Personal Sci. 2017;8(4):355-362.",
+      "doi": "10.1177/1948550617697177",
+      "url": "https://pure.tue.nl/ws/portalfiles/portal/80918653/lakeequi2017.pdf",
+      "verification": "Publisher version of record in author's institutional repository read, including metadata and equivalence-bounds argument; PMC metadata also matches.",
+      "use": "Supports explicit, preferably prespecified meaningful retention/equivalence bounds and distinguishes a nonsignificant difference from demonstrated equivalence. No new equivalence test is possible from absent post-challenge measurements."
+    },
+    {
+      "citation": "Page MJ et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71.",
+      "doi": "10.1136/bmj.n71",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005924/",
+      "verification": "Primary article identity and reporting-guideline scope verified; publisher short page and PMC full article available, publisher long page returned 403.",
+      "use": "Relevant reporting elements improve transparency of study selection and evidence assessment. This bounded candidate-focused search is not represented as a complete systematic review or certified PRISMA-compliant review."
+    },
+    {
+      "citation": "Rethlefsen ML, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, Koffel JB; PRISMA-S Group. PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Syst Rev. 2021;10:39.",
+      "doi": "10.1186/s13643-020-01542-z",
+      "url": "https://link.springer.com/article/10.1186/s13643-020-01542-z",
+      "verification": "Primary publisher full article, metadata, search-reporting scope and checklist discussion read. Parallel JMLA publication exists; the requested Systematic Reviews version is cited consistently.",
+      "use": "Supports reporting information sources, exact strategies, dates, restrictions and selection accounting. Transparent reporting does not establish search exhaustiveness."
+    }
+  ]
+}

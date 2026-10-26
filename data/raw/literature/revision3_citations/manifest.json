@@ -1,0 +1,301 @@
+[
+  {
+    "source_id": "revision3_citations_Cai2020_references_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/32719542/references?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Cai2020_references_page1.json",
+    "sha256": "eebfff54632eda2750eba7c929ef16ed4d9423b96a4d531f4c7836d6c1299f53",
+    "retrieved_utc": "2026-10-25T15:24:01.339349+00:00",
+    "role": "references first-generation records for Cai2020",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Cai2020_citations_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/32719542/citations?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Cai2020_citations_page1.json",
+    "sha256": "377f9e7abf89b589bc029ef2eaf5568fc11ba5e1df33e2fa14b9700517f526f2",
+    "retrieved_utc": "2026-10-25T15:24:01.769262+00:00",
+    "role": "citations first-generation records for Cai2020",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Sintov2022_references_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/36055241/references?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Sintov2022_references_page1.json",
+    "sha256": "68e2cd165abc18f9ef6464c2587000ba45950a45776dc6795b8e5b3dae7bfc15",
+    "retrieved_utc": "2026-10-25T15:24:01.522699+00:00",
+    "role": "references first-generation records for Sintov2022",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Sintov2022_citations_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/36055241/citations?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Sintov2022_citations_page1.json",
+    "sha256": "d5ce3a7b72f5571616a196c1aa492dd88ccc89b1e4330940e6143e098c306671",
+    "retrieved_utc": "2026-10-25T15:24:01.483688+00:00",
+    "role": "citations first-generation records for Sintov2022",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Karaoglu2026_references_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/41710881/references?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Karaoglu2026_references_page1.json",
+    "sha256": "39fd416e2ac9443816f71e6c3b4fbc63fa6abf95b7d2d6e96aee5e44dc92dd31",
+    "retrieved_utc": "2026-10-25T15:24:02.086906+00:00",
+    "role": "references first-generation records for Karaoglu2026",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Karaoglu2026_citations_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/41710881/citations?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Karaoglu2026_citations_page1.json",
+    "sha256": "aa6a2d400b3f9d40f42b1c83f96b2c3b86f9ad6fc7346ce4d917ab37756f3d1d",
+    "retrieved_utc": "2026-10-25T15:24:02.080904+00:00",
+    "role": "citations first-generation records for Karaoglu2026",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_MacDonald2025_references_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/39988068/references?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/MacDonald2025_references_page1.json",
+    "sha256": "4f00f2da2cd63d2a33c1b43ab05715c4f51f2a3991ce5a42ff3e8b9feea08d34",
+    "retrieved_utc": "2026-10-25T15:24:02.549930+00:00",
+    "role": "references first-generation records for MacDonald2025",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_MacDonald2025_citations_page1.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/MED/39988068/citations?format=json&page=1&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/MacDonald2025_citations_page1.json",
+    "sha256": "d6af2d16017615800d10024ae2b083da14844d332bf8d1fbcd8e27cc1c6bdd22",
+    "retrieved_utc": "2026-10-25T15:24:02.375408+00:00",
+    "role": "citations first-generation records for MacDonald2025",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch01.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A29781950+AND+SRC%3AMED%29+OR+%28EXT_ID%3A16366596+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25303535+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27718448+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25075903+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27458201+AND+SRC%3AMED%29+OR+%28EXT_ID%3A9837962+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15677503+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31180194+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15486293+AND+SRC%3AMED%29+OR+%28EXT_ID%3A16968214+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27152363+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27173406+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29562882+AND+SRC%3AMED%29+OR+%28EXT_ID%3A19430480+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24511138+AND+SRC%3AMED%29+OR+%28EXT_ID%3A8513503+AND+SRC%3AMED%29+OR+%28EXT_ID%3A8402882+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25900362+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23579614+AND+SRC%3AMED%29+OR+%28EXT_ID%3A13775618+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24336571+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31896552+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25531177+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26403950+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch01.json",
+    "sha256": "52635695cccaf5e10d0a1ccbd1aebe559e9977498bfbf823af9f6bad57a1d786",
+    "retrieved_utc": "2026-10-25T15:24:57.581281+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch02.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A180605+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30528099+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22883234+AND+SRC%3AMED%29+OR+%28EXT_ID%3A11854325+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15705778+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21699903+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29604048+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29042438+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28333914+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12847137+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30778232+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30166987+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22891215+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31040209+AND+SRC%3AMED%29+OR+%28EXT_ID%3A9930704+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25906147+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29654212+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31068696+AND+SRC%3AMED%29+OR+%28EXT_ID%3A2510155+AND+SRC%3AMED%29+OR+%28EXT_ID%3A1647994+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28263308+AND+SRC%3AMED%29+OR+%28EXT_ID%3A17376838+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12540615+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42851930+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42794786+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch02.json",
+    "sha256": "48b0560ff5a532b0f4263cdcba6a13372e854cc1b6cfcf0f3a0d13e9aa0870f5",
+    "retrieved_utc": "2026-10-25T15:24:57.735367+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch03.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A42321786+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41970262+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41710881+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41597265+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41188976+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41093834+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41041834+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40869431+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40904460+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR1059715+AND+SRC%3APPR%29+OR+%28EXT_ID%3A40739379+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40731099+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40272266+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40544453+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40612435+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41732321+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40221070+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40079396+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39988068+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR979248+AND+SRC%3APPR%29+OR+%28EXT_ID%3A39847085+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39860389+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40969948+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39881520+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39159002+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch03.json",
+    "sha256": "c8f7fa0e8c8d3685fd6f22fa4de5a87e693c3e567fb2749a832223d2156f738e",
+    "retrieved_utc": "2026-10-25T15:24:57.837572+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch04.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3APPR892638+AND+SRC%3APPR%29+OR+%28EXT_ID%3A38692586+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39081515+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38956087+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38914291+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38975343+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38693782+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38720903+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38666293+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38230609+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38203514+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38139149+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37947352+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37833064+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37795196+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37530737+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37216639+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37488322+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37315838+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37295292+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37918206+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36355853+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36917606+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36549959+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36545154+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch04.json",
+    "sha256": "696f5a1eb5a54d82b7258ba938878d58f9bd2a42f46a4e983d4baea022053c26",
+    "retrieved_utc": "2026-10-25T15:24:57.444768+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch05.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A36468712+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36406259+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36055241+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36030035+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35941358+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35992113+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35909206+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35711341+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35549832+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35563490+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35259186+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35008927+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34691077+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34582693+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34180979+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34376833+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34440775+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34258870+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34175822+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34162685+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35479216+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33804882+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33751396+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33417749+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33454830+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch05.json",
+    "sha256": "9222bcfc0383d059b135f776e3d390a2d3200582585f3ae05c6489e83f537a55",
+    "retrieved_utc": "2026-10-25T15:24:59.013416+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch06.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A33353789+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33162936+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32753719+AND+SRC%3AMED%29+OR+%28EXT_ID%3A16691491+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29754817+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12032139+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20314060+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29199283+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25732191+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31900242+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33416832+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30755454+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26285657+AND+SRC%3AMED%29+OR+%28EXT_ID%3A14578288+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28855240+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31811270+AND+SRC%3AMED%29+OR+%28EXT_ID%3A19187771+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12163497+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34861146+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26780180+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31151733+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27797910+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12764129+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25432462+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27793959+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch06.json",
+    "sha256": "315244f5bd13119c6a013f2ef484e41f38cdc83ccc10c741f65e6ed84c19eca3",
+    "retrieved_utc": "2026-10-25T15:24:59.079417+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch07.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A25751624+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25211370+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28635624+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21246196+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29929436+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35122482+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20980260+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35044456+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33042009+AND+SRC%3AMED%29+OR+%28EXT_ID%3A11289477+AND+SRC%3AMED%29+OR+%28EXT_ID%3A19336676+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32814902+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20059481+AND+SRC%3AMED%29+OR+%28EXT_ID%3A18444937+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34305820+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15548573+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30383447+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20966598+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27834384+AND+SRC%3AMED%29+OR+%28EXT_ID%3A9064356+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15864272+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32122884+AND+SRC%3AMED%29+OR+%28EXT_ID%3A10911004+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30847553+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21130166+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch07.json",
+    "sha256": "f86e78e63a0c801a03ccdbe08c923c1336d6219d6e30c7c4dcf960adbc147f12",
+    "retrieved_utc": "2026-10-25T15:24:59.056418+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch08.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A25843049+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32668238+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25908839+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23001506+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32719542+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24966052+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30853558+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33912591+AND+SRC%3AMED%29+OR+%28EXT_ID%3A7929219+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34088000+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21719096+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28504668+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33691098+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22412385+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34407395+AND+SRC%3AMED%29+OR+%28EXT_ID%3A16306347+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12023393+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26972840+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42409021+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41995155+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41997152+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42058193+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR1216321+AND+SRC%3APPR%29+OR+%28EXT_ID%3A41886504+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41039199+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch08.json",
+    "sha256": "7da247ec406e3051392cd2f2503c7b5bcd4c877cbee5b23b2c2af26bbbb2c8c0",
+    "retrieved_utc": "2026-10-25T15:24:58.942218+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch09.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3APPR1057864+AND+SRC%3APPR%29+OR+%28EXT_ID%3A40376110+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39918671+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39829227+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39327223+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39339233+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39026343+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38871836+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR830061+AND+SRC%3APPR%29+OR+%28EXT_ID%3A38360355+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38281991+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR775687+AND+SRC%3APPR%29+OR+%28EXT_ID%3A38020120+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37493471+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37528526+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37554308+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37188763+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37146579+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37538198+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36539606+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36599351+AND+SRC%3AMED%29+OR+%28EXT_ID%3APPR462189+AND+SRC%3APPR%29+OR+%28EXT_ID%3A37043559+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20723824+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38335966+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch09.json",
+    "sha256": "4741cc47c5810143403632022120ccf17f7bebb72cf7bab3277cf08ae453af60",
+    "retrieved_utc": "2026-10-25T15:25:00.169671+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch10.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A25374439+AND+SRC%3AMED%29+OR+%28EXT_ID%3A16530579+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26903475+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40499457+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32159143+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32617176+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30682089+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25131084+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24705607+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33455228+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21865948+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32627352+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38215755+AND+SRC%3AMED%29+OR+%28EXT_ID%3A39743230+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40682646+AND+SRC%3AMED%29+OR+%28EXT_ID%3A28832685+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27208344+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12020331+AND+SRC%3AMED%29+OR+%28EXT_ID%3A40185667+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34813353+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35725652+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30894629+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15622970+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33401104+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34326233+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch10.json",
+    "sha256": "18f463e0484c47662f9ac1b9661ac2ce3f1768a79de054891dcd96f14cad3203",
+    "retrieved_utc": "2026-10-25T15:25:00.390755+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch11.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A40251154+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33595677+AND+SRC%3AMED%29+OR+%28EXT_ID%3A27163171+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29575787+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15996257+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37704030+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23296174+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38308004+AND+SRC%3AMED%29+OR+%28EXT_ID%3A3293272+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31839487+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29868031+AND+SRC%3AMED%29+OR+%28EXT_ID%3A20163204+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37269532+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23791483+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34879096+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23801577+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26435505+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34349281+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21459328+AND+SRC%3AMED%29+OR+%28EXT_ID%3A2642434+AND+SRC%3AMED%29+OR+%28EXT_ID%3A2201499+AND+SRC%3AMED%29+OR+%28EXT_ID%3A9228023+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32694660+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37949065+AND+SRC%3AMED%29+OR+%28EXT_ID%3A10830272+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch11.json",
+    "sha256": "a82f78d9daae6a2bad2b15cd88ad3b1cf9044fceec821b06e9a9fb2bfcbd6a87",
+    "retrieved_utc": "2026-10-25T15:25:00.261706+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch12.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A15841207+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26135354+AND+SRC%3AMED%29+OR+%28EXT_ID%3A17268797+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38607916+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15033933+AND+SRC%3AMED%29+OR+%28EXT_ID%3A38032734+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23282133+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37612403+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30089716+AND+SRC%3AMED%29+OR+%28EXT_ID%3A3035556+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23418185+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22025777+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31184302+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15923360+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34818536+AND+SRC%3AMED%29+OR+%28EXT_ID%3A4137711+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24317490+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26049000+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29972779+AND+SRC%3AMED%29+OR+%28EXT_ID%3A29891438+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33463547+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25600407+AND+SRC%3AMED%29+OR+%28EXT_ID%3A31171772+AND+SRC%3AMED%29+OR+%28EXT_ID%3A19352320+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12931191+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch12.json",
+    "sha256": "3a32acf0c1c370ae795daa52a33300ab76ce839321576f73ec47f54cc26cbd1a",
+    "retrieved_utc": "2026-10-25T15:25:00.450813+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch13.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A19373249+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23835333+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35241836+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32244186+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30412050+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30078552+AND+SRC%3AMED%29+OR+%28EXT_ID%3A1107123+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33293704+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35728586+AND+SRC%3AMED%29+OR+%28EXT_ID%3A19641898+AND+SRC%3AMED%29+OR+%28EXT_ID%3A17855560+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36317646+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23820623+AND+SRC%3AMED%29+OR+%28EXT_ID%3A30694178+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32220307+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36690328+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35245439+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26099855+AND+SRC%3AMED%29+OR+%28EXT_ID%3A32402282+AND+SRC%3AMED%29+OR+%28EXT_ID%3A21830798+AND+SRC%3AMED%29+OR+%28EXT_ID%3A8450059+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22699564+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35560196+AND+SRC%3AMED%29+OR+%28EXT_ID%3A15561905+AND+SRC%3AMED%29+OR+%28EXT_ID%3A36376280+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch13.json",
+    "sha256": "36592ed2bd2926de8df722f8ee41f09736ebfca61d3dd71f386c7b3ef00c2d45",
+    "retrieved_utc": "2026-10-25T15:25:01.520840+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_core_metadata_batch14.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28EXT_ID%3A17475933+AND+SRC%3AMED%29+OR+%28EXT_ID%3A18020963+AND+SRC%3AMED%29+OR+%28EXT_ID%3A25640178+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34461088+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12637977+AND+SRC%3AMED%29+OR+%28EXT_ID%3A12101393+AND+SRC%3AMED%29+OR+%28EXT_ID%3A18436705+AND+SRC%3AMED%29+OR+%28EXT_ID%3A35722112+AND+SRC%3AMED%29+OR+%28EXT_ID%3A2951152+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24225943+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26899404+AND+SRC%3AMED%29+OR+%28EXT_ID%3A37556323+AND+SRC%3AMED%29+OR+%28EXT_ID%3A23274896+AND+SRC%3AMED%29+OR+%28EXT_ID%3A33382985+AND+SRC%3AMED%29+OR+%28EXT_ID%3A22442300+AND+SRC%3AMED%29+OR+%28EXT_ID%3A34593535+AND+SRC%3AMED%29+OR+%28EXT_ID%3A26595448+AND+SRC%3AMED%29+OR+%28EXT_ID%3A24812433+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42439827+AND+SRC%3AMED%29+OR+%28EXT_ID%3A42050914+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41790107+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41559934+AND+SRC%3AMED%29+OR+%28EXT_ID%3A41314850+AND+SRC%3AMED%29&format=json&resultType=core&pageSize=100&cursorMark=%2A",
+    "filename": "data/raw/literature/revision3_citations/core_metadata_batch14.json",
+    "sha256": "7bb48e1a13ec511c3dfc6cf6f3979cee447bcfddc10414e9c0645a19b368cba5",
+    "retrieved_utc": "2026-10-25T15:25:01.382084+00:00",
+    "role": "Core metadata and available abstracts for every indexed first-generation record",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_PMC11780636.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11780636/fullTextXML",
+    "filename": "data/raw/literature/revision3_citations/PMC11780636.xml",
+    "sha256": "14ef7dacf89c303bb34f93532e989f3247f3fc6aff1f1744be08fd01d69abe1a",
+    "retrieved_utc": "2026-10-25T15:27:19.754958+00:00",
+    "role": "Primary full text follow-up of first-generation citation screening lead MED:39881520",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_PMC11225407.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11225407/fullTextXML",
+    "filename": "data/raw/literature/revision3_citations/PMC11225407.xml",
+    "sha256": "23f435697cf2bafbcc250ef119025cfc50aa40bef38a1d16d70733d17724ffc3",
+    "retrieved_utc": "2026-10-25T15:27:19.760959+00:00",
+    "role": "Primary full text follow-up of first-generation citation screening lead MED:38975343",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_PMC10025263.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10025263/fullTextXML",
+    "filename": "data/raw/literature/revision3_citations/PMC10025263.xml",
+    "sha256": "e3ff06ac87d3d00b8bf810add96777dd322bcd80178022f952e05d00935a4777",
+    "retrieved_utc": "2026-10-25T15:27:19.659884+00:00",
+    "role": "Primary full text follow-up of first-generation citation screening lead MED:36917606",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_PMC13168893.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13168893/fullTextXML",
+    "filename": "data/raw/literature/revision3_citations/PMC13168893.xml",
+    "sha256": "ffa6b32ffeda54a5a6936ed01ac87def8cc5c35321890ff8a7e5cd0188cba480",
+    "retrieved_utc": "2026-10-25T15:27:21.217069+00:00",
+    "role": "Primary full text follow-up of first-generation citation screening lead MED:41886504",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_PMC9023776.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9023776/fullTextXML",
+    "filename": "data/raw/literature/revision3_citations/PMC9023776.xml",
+    "sha256": "4edda37fdf019b7b2b4e745be7d7185df171405b088305b9dad288657f22ca8b",
+    "retrieved_utc": "2026-10-25T15:27:20.667383+00:00",
+    "role": "Primary full text follow-up of first-generation citation screening lead MED:35245439",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Bode2024_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11225407/supplementaryFiles",
+    "filename": "data/raw/literature/revision3_citations/Bode2024_supplementary.zip",
+    "sha256": "5e6a4ccfa34478d8afa67fdd0ab59dd63d74fa22b4a5b205f92afb1c43b7715f",
+    "retrieved_utc": "2026-10-25T15:28:52.929747+00:00",
+    "role": "Primary supplementary files for RNLS immune-function follow-up",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  },
+  {
+    "source_id": "revision3_citations_Bode2023_BioC.json",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC10382656/unicode",
+    "filename": "data/raw/literature/revision3_citations/Bode2023_BioC.json",
+    "sha256": "478f38e0765ee9c406831bb2fc27e8019ac5227c20c6b28ca0de582d8449354a",
+    "retrieved_utc": "2026-10-25T15:29:22.846020+00:00",
+    "role": "Unavailable full text: response begins [Error] No result; not article evidence",
+    "access_license_note": "Public API error response retained for access audit; no primary full text."
+  },
+  {
+    "source_id": "revision3_citations_Bode2023_efetch.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10382656",
+    "filename": "data/raw/literature/revision3_citations/Bode2023_efetch.xml",
+    "sha256": "bcf3b07288a4c6e29e1885d85788869df8941fec456cb6938c5023dd2fe5001d",
+    "retrieved_utc": "2026-10-25T15:30:08.758293+00:00",
+    "role": "NCBI PMC front matter and abstract only; body absent",
+    "access_license_note": "Public PMC metadata response, not full article XML; source-specific rights retained."
+  },
+  {
+    "source_id": "revision3_citations_Bode2024_DataSheet_1.pdf",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11225407/supplementaryFiles",
+    "filename": "data/raw/literature/revision3_citations/Bode2024_DataSheet_1.pdf",
+    "sha256": "f2b09e88f34a96849103f143d936ab1f03f6291bfcc3688751ee303f87cc6aa0",
+    "retrieved_utc": "2026-10-25T15:28:52.929747+00:00",
+    "role": "Exact archive member DataSheet_1.pdf",
+    "derived_from": "data/raw/literature/revision3_citations/Bode2024_supplementary.zip",
+    "access_license_note": "Primary Frontiers supplement/image; source-specific CC BY license applies."
+  },
+  {
+    "source_id": "revision3_citations_Bode2024_Figure4.jpg",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11225407/supplementaryFiles",
+    "filename": "data/raw/literature/revision3_citations/Bode2024_Figure4.jpg",
+    "sha256": "8f38c9bcaaa520f9697fb25653c523594e2c04e65dc6f6ee1da7d0805525784e",
+    "retrieved_utc": "2026-10-25T15:28:52.929747+00:00",
+    "role": "Exact archive member fimmu-15-1403752-g004.jpg",
+    "derived_from": "data/raw/literature/revision3_citations/Bode2024_supplementary.zip",
+    "access_license_note": "Primary Frontiers supplement/image; source-specific CC BY license applies."
+  },
+  {
+    "source_id": "revision3_citations_Harding2019_metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1101%2F716571&format=json&resultType=core&pageSize=100",
+    "filename": "data/raw/literature/revision3_citations/Harding2019_metadata.json",
+    "sha256": "f21d2ca8f73ca3b5a0c0de647a6c3b64f850b0a8d27085a230dd65ff09c6148c",
+    "retrieved_utc": "2026-10-25T15:32:44.864073+00:00",
+    "role": "Unmatched anchor bibliography DOI follow-up",
+    "access_license_note": "Europe PMC public metadata; abstracts/full text retain source-specific rights. Stored for audit; not a grant of republication rights."
+  }
+]

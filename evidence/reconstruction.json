@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "checked_at_utc": "2026-10-25T16:26:47.824218+00:00",
+  "environment": "Isolated Python 3.12.14 environment with the 21 exact requirements-lock package versions; exported code executed without private scientific dependencies.",
+  "command": "python reproduce.py --data-cache <declared data/raw cache> --manuscript",
+  "source_files_verified": 159,
+  "tests_passed": 24,
+  "frozen_inputs_unchanged": true,
+  "output_files_compared": 50,
+  "all_compared_files_byte_identical": true,
+  "Word_XML_parts_compared": 14,
+  "all_Word_XML_parts_identical": true,
+  "scientific_numeric_results_unchanged": true,
+  "PDF_compilation_in_reconstruction": false,
+  "visual_review": {
+    "PDF_pages": 10,
+    "Word_pages": 9,
+    "all_pages_inspected": true,
+    "Figures_3_and_4_before_Discussion": true,
+    "PDF_sha256": "a18d4b6eac341cc656e3cd4393fec8efcb16f6c1a395db61765259ae082c51f6",
+    "Word_sha256": "659078862330f12279922e35c21c564556cea12f61ee19c351d1aad3fabbd131",
+    "common_content_sha256": "aa0c142809b4e10c193970f32d130cc05afa15a8fb74a2d3f417802b8b31b1ce"
+  },
+  "scope": "Computational consistency and artifact inspection, not external specialist or biological validation. Source cache and external rendering tools are documented in README.md."
+}

@@ -1,0 +1,12 @@
+discovery_label	current_mouse_symbol	human_symbol	mouse_ncbi_id	mouse_mgi_id	human_ncbi_id	human_hgnc_id	mapping_authority	mapping_sensitive	alias_correction	score_available	included	exclusion_reason
+Hivep2	Hivep2	HIVEP2	15273.0	MGI:1338076	3097.0	HGNC:4921	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	True	True	
+Rnls	Rnls	RNLS	67795.0	MGI:1915045	55328.0	HGNC:25641	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	True	True	
+Gcn1l1	Gcn1	GCN1	231659.0	MGI:2444248	10985.0	HGNC:4199	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	Gcn1l1 -> Gcn1	True	True	
+Med11	Med11	MED11	66172.0	MGI:1913422	400569.0	HGNC:32687	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	True	True	
+Zbed3	Zbed3	ZBED3	72114.0	MGI:1919364	84327.0	HGNC:20711	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	True	True	
+Gm3604	Gm3604	ZNF28	100041979.0	MGI:3781781	7576.0	HGNC:13073	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	True	none	True	True	
+Lgsn	Lgsn	LGSN	266744.0	MGI:2672844	51557.0	HGNC:21016	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	False	False	absent_reported_score_universe
+Plin4	Plin4	PLIN4	57435.0	MGI:1929709	729359.0	HGNC:29393	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	False	False	absent_reported_score_universe
+Tgm6	Tgm6	TGM6	241636.0	MGI:3044321	343641.0	HGNC:16255	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	False	False	absent_reported_score_universe
+Grm2	Grm2	GRM2	108068.0	MGI:1351339	2912.0	HGNC:4594	MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	False	False	absent_reported_score_universe
+Olfr909	Olfr909						MGI/Alliance HOM_MouseHumanSequence.rpt frozen snapshot	False	none	False	False	no_committed_admissible_human_mapping

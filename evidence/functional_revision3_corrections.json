@@ -1,0 +1,49 @@
+{
+  "revision": "v3",
+  "date": "2026-10-25",
+  "prior_evidence_csv_sha256": "01118d4f37998a1ca79c9f4049e6ddc12e6ecd510a45363af19e30a7390b707f",
+  "original_comparison_ids_preserved": 32,
+  "source_supported_corrections": [
+    {
+      "record_id": "FE018",
+      "field": "absolute_stimulated_output",
+      "prior_value": "not numerically extracted",
+      "revised_value": "(microIU/mL)/1000 beta cells shown graphically; exact values not digitized",
+      "reason": "Newly retained primary ED10c image resolves formerly unextracted units and directly shows baseline glucose response in WT and RNLS-KO. No numeric bar-height extraction.",
+      "source": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg"
+    },
+    {
+      "record_id": "FE018",
+      "field": "normalization_denominator",
+      "prior_value": "not resolved in extracted caption",
+      "revised_value": "1000 beta cells (Extended Data Figure 10c ordinate)",
+      "reason": "Newly retained primary ED10c image resolves formerly unextracted units and directly shows baseline glucose response in WT and RNLS-KO. No numeric bar-height extraction.",
+      "source": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg"
+    },
+    {
+      "record_id": "FE018",
+      "field": "control_responsiveness",
+      "prior_value": "baseline GSIS reported; no post-immune comparator",
+      "revised_value": "WT and RNLS KO show increased insulin at 20 versus 2.8 mM glucose (ED10c visual observation)",
+      "reason": "Newly retained primary ED10c image resolves formerly unextracted units and directly shows baseline glucose response in WT and RNLS-KO. No numeric bar-height extraction.",
+      "source": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg"
+    },
+    {
+      "record_id": "FE018",
+      "field": "absolute_output_assessment",
+      "prior_value": "not numerically extracted",
+      "revised_value": "(microIU/mL)/1000 beta cells shown graphically; exact values not digitized",
+      "reason": "Newly retained primary ED10c image resolves formerly unextracted units and directly shows baseline glucose response in WT and RNLS-KO. No numeric bar-height extraction.",
+      "source": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg"
+    },
+    {
+      "record_id": "FE018",
+      "field": "control_response_assessment",
+      "prior_value": "baseline GSIS reported; no post-immune comparator",
+      "revised_value": "WT and RNLS KO show increased insulin at 20 versus 2.8 mM glucose (ED10c visual observation)",
+      "reason": "Newly retained primary ED10c image resolves formerly unextracted units and directly shows baseline glucose response in WT and RNLS-KO. No numeric bar-height extraction.",
+      "source": "data/raw/literature/uniform20261025/Cai2020_ED10.jpg"
+    }
+  ],
+  "new_fields_note": "Model-study baseline panel gives observed response, control response, output basis, comparison and immune timing separately; no study-wide grade."
+}

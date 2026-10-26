@@ -1,0 +1,68 @@
+{
+  "title": "Paired functional protection in edited human beta cells",
+  "status": "Experimental framework requiring biological calibration and prospective registration; not yet an executable confirmatory protocol",
+  "article_type": "Evidence-informed Perspective",
+  "experiments_performed": false,
+  "primary_candidate": "RNLS as an information-rich test, not an established effective edit",
+  "product": "One specified glucose-responsive human beta-cell product; independent target sources, edited preparations and batches",
+  "genetic_conditions": ["independently generated RNLS edit", "matched unedited or procedural control", "rescue or independent perturbation for on-target attribution"],
+  "challenge_conditions": ["unchallenged", "validated antigen-specific autoimmune recognition", "documented mismatched allogeneic immune exposure"],
+  "challenge_qualification": "Demonstrated regulated-output injury or cell loss in controls; functional injury without cell loss is eligible. Avoid an immediately destructive challenge with no informative range.",
+  "allocation": "Block by target-cell source and batch; randomize matched aliquots within blocks; cross immune donors where feasible; prespecify blinding",
+  "unit": "Independently prepared and assigned product aliquot or graft; repeated times and technical wells do not create independent biological samples",
+  "initial_dose": "Live beta-cell abundance at onset of challenge; match and record N0; report manufacturing yield and failures separately",
+  "paired_measurements": ["absolute basal secretion rate QL with prespecified acceptable range or ceiling", "absolute stimulated secretion rate QH", "glucose increment D = QH - QL", "viable beta-cell abundance N with identity and proliferation controls", "return toward basal secretion", "passive-release/background controls"],
+  "estimands": {
+    "primary": "Difference in F = D/N0 between edited and control challenged preparations at a prespecified late assessment",
+    "retained_abundance": "S = N/N0, not a survival probability when proliferation or identity change occurs",
+    "survivor_quality": "f = D/N for N > 0; descriptive among survivors, not an identified causal cell-intrinsic effect",
+    "challenge_interaction": "Edited-control difference under challenge minus edited-control difference without challenge, separately by challenge type",
+    "joint": "Within-preparation satisfaction of adequate output, acceptable basal release, regulated response and persistence criteria; estimate joint-success frequency and uncertainty against a justified benchmark and matched controls, not marginal mean tests alone. Add abundance or survivor-quality gates only for explicitly declared additional claims.",
+    "retention_references": "Both matched edited/unchallenged and unedited/unchallenged preparations plus a separately specified responsive reference"
+  },
+  "required_calibrations_before_confirmatory_execution": {
+    "responsive_reference": null,
+    "minimum_adequate_output": null,
+    "acceptable_basal_output_range_or_ceiling": null,
+    "joint_success_frequency_benchmark": null,
+    "duration_and_late_assessments": null,
+    "biological_sample_size": null,
+    "joint_power_and_variance_inputs": null,
+    "multiplicity_and_missing_data_plan": null,
+    "null_meaning": "Not determined by this paper; must be justified externally and fixed prospectively, not chosen to fit candidate results"
+  },
+  "claim_specific_calibrations": {
+    "minimum_abundance": {"value": null, "required_for": "A separately declared abundance acceptance claim, not a universal product-benefit gate"},
+    "survivor_quality_noninferiority_margin": {"value": null, "required_for": "A separately declared per-survivor preservation claim"}
+  },
+  "claims_and_dimensions": {
+    "product_level_functional_immune_protection": "Sufficient regulated output under immune challenge with benefit supported by matched challenge comparisons over the specified period; no universal extra-retention or per-survivor noninferiority prerequisite",
+    "increased_retention": "Separate live-abundance claim; investigate growth and identity transitions before assigning a survival mechanism",
+    "preserved_survivor_function": "Separate claim tested against a biologically justified margin; failure does not automatically disqualify otherwise useful product output",
+    "compensated_output": "Descriptive combination of greater retained abundance and lower per-survivor output; can overlap with per-survivor noninferiority when a modest reduction lies inside the justified margin",
+    "classification": "Report the dimensions and claim-specific conclusions; they are not mutually exclusive outcome bins"
+  },
+  "calibration_pathway": [
+    {"step": 1, "basis": "Intended product use and dose", "sets": "Biologically meaningful minimum output, acceptable basal behavior and duration; clinical utility requires clinical outcomes"},
+    {"step": 2, "basis": "Independent responsive reference plus both matched unchallenged genotypes", "sets": "Expected basal/stimulated response profile and assay acceptance; prevents a weak edited baseline from defining success"},
+    {"step": 3, "basis": "External functional or dose-response evidence and intended use", "sets": "Largest biologically acceptable loss for each preservation claim; assay noise does not set permissive biological margins"},
+    {"step": 4, "basis": "Assay validation and pilot independent preparations and donors", "sets": "Repeatability, quantification limits, recovery, between-preparation variance, covariance, attrition and challenge stability; use these for precision and sample-size planning"},
+    {"step": 5, "basis": "Manufacturing reliability, intended use and model kinetics", "sets": "Justified product-success frequency benchmark and late assessment times; lock all criteria and analysis before confirmatory results"}
+  ],
+  "measurement_settings": {
+    "culture_or_perifusion": "Estimate QL and QH from collected hormone amount per time with known volume or flow and source/background controls; calibrated live beta-cell counts permit N and f",
+    "animal_or_clinical_graft": "Circulating insulin/C-peptide concentrations and glycemia are functional readouts, not direct secretion rates; kinetics, clearance and source attribution need additional assumptions",
+    "clinical_abundance": "Usually not a direct whole-graft live-cell count; imaging/biopsy proxies cannot be silently substituted for N",
+    "scope": "Apply the identity only to commensurate quantities; state when measurements support proxies rather than direct F or f"
+  },
+  "failure_handling": {
+    "complete_cell_loss": "Zero viable-cell output, undefined survivor output; retain in total-output analysis",
+    "unresponsive_controls": "Record product/assay failure; do not call a null edit contrast evidence of retained responsiveness",
+    "missing_assay": "Missing, not automatically zero; analyze under declared missing-data sensitivity assumptions",
+    "death_during_secretion_assay": "Use validated phase-specific cell-time denominators or invalidate per-survivor interpretation",
+    "early_benefit_late_loss": "Delayed failure over the observed horizon, not durable protection"
+  },
+  "inference": "Use donor- and preparation-aware paired models or cluster resampling. A single all-required intersection-union claim differs from simultaneous confidence coverage and from selection across edits or times.",
+  "subsequent_question": "If single-edit results justify it, test a candidate-by-immune-intervention factorial design; do not assume complementary mechanisms or additive benefit.",
+  "clinical_boundary": "Intermediate potency and immune-model success do not establish insulin independence, patient benefit or long-term product safety."
+}

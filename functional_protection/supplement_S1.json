@@ -1,0 +1,69 @@
+{
+  "title": "Supplement S1 Retained nominee and screen evidence",
+  "purpose": "Selected exact inputs underpinning the candidate-specific evidence synthesis and contextual rank result. No screen computation is claimed as new in this paper.",
+  "files": [
+    {
+      "original_path": "candidate_mapping.tsv",
+      "retained_copy": "foundation_inputs/candidate_mapping.tsv",
+      "sha256": "127cf6153cfcffee8eadbf12dea6fc9dd9c5ad3b8e5450e8739eeefd7cc4c2d8",
+      "bytes": 1834
+    },
+    {
+      "original_path": "functional_evidence.tsv",
+      "retained_copy": "foundation_inputs/functional_evidence.tsv",
+      "sha256": "6bd7389dc22d10e341c172a1e1a31632afa660c47d27c88700c534717ab4a2db",
+      "bytes": 72752
+    },
+    {
+      "original_path": "evidence/baseline_experiments.tsv",
+      "retained_copy": "foundation_inputs/baseline_experiments.tsv",
+      "sha256": "6cf395171a53b7d21e98f601b859ef97dea1f4eb1202cf9d4021d1bdf2dacf4d",
+      "bytes": 6731
+    },
+    {
+      "original_path": "evidence/functional_coverage_counts.json",
+      "retained_copy": "foundation_inputs/functional_coverage_counts.json",
+      "sha256": "93d42eae3718b61e5bba3f1707fc7fdcefbc4cb408ca79b01f1464d2275ed309",
+      "bytes": 936
+    },
+    {
+      "original_path": "evidence/bode2023_access_final.json",
+      "retained_copy": "foundation_inputs/bode2023_access_final.json",
+      "sha256": "add6154c7c5304523ed7c8cb7068f3f33296f676ed1b91a91ad98960d95713ba",
+      "bytes": 10488
+    },
+    {
+      "original_path": "results/transfer_summary.tsv",
+      "retained_copy": "foundation_inputs/transfer_summary.tsv",
+      "sha256": "0863a6ffcd6e6fad6334a72d88a472d9d799858e35da4c575b09e7d1d3f6bb94",
+      "bytes": 2047
+    },
+    {
+      "original_path": "protocol/functional_search_v3.json",
+      "retained_copy": "foundation_inputs/functional_search_v3.json",
+      "sha256": "951e7160b4f1f180d2e22f95ed16643a7084c98b8a9a8fb35c93ebfcdaf97268",
+      "bytes": 15264
+    },
+    {
+      "original_path": "protocol/revision3_citation_plan.json",
+      "retained_copy": "foundation_inputs/revision3_citation_plan.json",
+      "sha256": "a858ba09e965e5650810b9c6d8ffe04eb3a9652b9a6bfd1b1a02b8f6567ad5c4",
+      "bytes": 4645
+    }
+  ],
+  "foundation_paper_sha256": "a18d4b6eac341cc656e3cd4393fec8efcb16f6c1a395db61765259ae082c51f6",
+  "reconstruction_scope": "The repository root contains the complete screen-analysis code, protocols, curated evidence and tests. Follow ../README.md and ../docs/provider_reconstruction.md to acquire provider inputs and run the foundation analysis. The functional_protection directory independently reproduces its hypothetical examples, figure and editable manuscript.",
+  "source_assessment_counts": "34 extracted comparisons,5 target-coverage records,1 completed source assessment; none should be counted as independent studies by repeated target entries.",
+  "foundation_repository_root": "..",
+  "foundation_manuscript": "../manuscript/paper.pdf",
+  "foundation_reconstruction_instructions": "../README.md",
+  "foundation_provider_download_instructions": "../docs/provider_reconstruction.md",
+  "foundation_analysis_directories": [
+    "../src/",
+    "../protocol/",
+    "../data/processed/",
+    "../evidence/",
+    "../results/",
+    "../tests/"
+  ]
+}

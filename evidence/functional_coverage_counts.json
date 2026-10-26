@@ -1,0 +1,23 @@
+{
+  "original_comparisons": 32,
+  "primary_candidate_comparisons": 27,
+  "interpretation_control_comparisons": 5,
+  "revision_primary_candidate_comparisons": 2,
+  "completed_full_text_source_assessment_records": 1,
+  "total_extracted_comparisons": 34,
+  "original_studies": 4,
+  "new_primary_followup_studies": 2,
+  "baseline_model_study_comparisons": 7,
+  "supplemental_literature_coverage_records": 5,
+  "total_records": 40,
+  "original_primary_F0": 20,
+  "original_primary_F1": 7,
+  "original_primary_F2_to_F4": 0,
+  "scored_candidates": 6,
+  "discovery_targets_covered": 11,
+  "baseline_direct_measurement_scored_candidates": 2,
+  "baseline_direct_measurement_all_discoveries": 2,
+  "adequate_postimmune_assessment_scored_candidates": 0,
+  "adequate_postimmune_assessment_all_discoveries": 0,
+  "zero_of_six_interpretation": "evidence coverage; no tested denominator for biological preserved-function rate"
+}

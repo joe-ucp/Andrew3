@@ -1,0 +1,4 @@
+score_definition	universe_n	candidate_count	theta	positive_candidate_scores	scope
+published_score	11474	6	0.42086675967910708	2	exploratory point-estimate comparison; not exact source-model reconstruction
+raw_log2_CPM_contrast	11474	6	0.49504418090919661	0	exploratory point-estimate comparison; not exact source-model reconstruction
+raw_NT_centered	11474	6	0.49504418090919661	2	exploratory point-estimate comparison; not exact source-model reconstruction

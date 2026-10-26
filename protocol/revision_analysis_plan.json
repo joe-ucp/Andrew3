@@ -1,0 +1,184 @@
+{
+  "analysis_id": "secondary_rank_calibration",
+  "frozen_utc": "2026-10-25T14:16:48.472103+00:00",
+  "status": "Secondary and exploratory analyses specified after the primary result was known.",
+  "outcomes_known_before_revision": [
+    "primary theta 0.42096778795400724, upper-tail p 0.74385925614074389",
+    "original individual matched percentiles and mean 0.36883375029516285",
+    "uncentered raw contrast directions and original NT-centered directions",
+    "Preliminary approximate null quantiles and common-universe raw theta were available before specification."
+  ],
+  "input_sha256": {
+    "data/processed/allogeneic_scores.csv": "6deb4f22b929a069b0df7862680c6cd04da5f669afb31c7d66f7425086846ed0",
+    "data/processed/raw_scored_universe_covariates.csv": "6c38de83be1f61343a8114b8025e2c50358c5d4244ba07451e5d45eba87916eb",
+    "results/raw_exploratory_NT_sample_reference.csv": "479b99e79e7ce34a953d32365163e6b599c9c0caa23d3b167785f6c74613f029",
+    "protocol/analysis_plan.json": "74e879f11e7c49f9f8d2c4fcb430d2108731dec0ecdb54288d50905daaaa3b55",
+    "protocol/raw_sensitivity.json": "520bedd59ad97933f529c4e43dfddee99db15f3dd6c25e87999927f9ec8add32"
+  },
+  "candidates": [
+    "HIVEP2",
+    "RNLS",
+    "GCN1",
+    "MED11",
+    "ZBED3",
+    "ZNF28"
+  ],
+  "primary_null": {
+    "n": 11689,
+    "m": 6,
+    "draws": 1000000,
+    "seed": 20261025,
+    "generator": "PCG64",
+    "sampler": "same whole-row duplicate rejection and batch size50000 as original transfer.py",
+    "quantiles": [
+      0.001,
+      0.005,
+      0.01,
+      0.025,
+      0.05,
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      0.9,
+      0.95,
+      0.975,
+      0.99,
+      0.995,
+      0.999
+    ],
+    "quantile_method": "higher",
+    "rejection_reference": "strictly greater than empirical .95 quantile; empirical reference threshold, not exact finite-universe critical value or effect confidence limit",
+    "histogram": "200 fixed-width bins on [0,1] plus compressed complete draw vector"
+  },
+  "no_hit_calibration": {
+    "criterion": "published_score >0 and reported_q <=.05",
+    "probability": "exact hypergeometric no-success probability product_{j=0}^{5}[(N-K-j)/(N-j)]",
+    "scope": "same unrestricted random-set reference; not gene-specific probability of ineffectiveness"
+  },
+  "joint_matching": {
+    "universe": "all scored genes with original raw guide count and control/pretransplant meanCPM covariates",
+    "stratum": "exact original guide_count, control quintile and pretransplant quintile; pd.qcut same as frozen raw analysis",
+    "reference": "preserve nominee count k_s per disjoint stratum; uniformly sample k_s without replacement from full stratum including original nominees",
+    "statistic": "sum_s (k_s/6)*theta_s where theta_s compares selected k_s to remaining n_s-k_s stratum genes using half-weight ties",
+    "draws": 1000000,
+    "seed": 20261026,
+    "generator": "PCG64",
+    "collision_handling": "draws within each stratum without replacement using whole-row rejection; strata partition universe so no across-stratum collisions",
+    "dependence": "finite-population dependence within stratum retained; no estimate or correction for biological correlation across gene effects",
+    "inference": "secondary upper-tail plus-one MonteCarlo p, MCSE, conditional strata-label exchangeability reference only"
+  },
+  "common_universe": {
+    "universe": "same11474 scored-and-raw-mapped genes, not separately chosen for each score",
+    "scores": [
+      "published_score",
+      "descriptive_log2_CPM_contrast",
+      "descriptive_log2_CPM_contrast minus shared941NT mean contrast"
+    ],
+    "statistic": "same six-candidate finite theta within common universe",
+    "checks": "full rank vectors identical before/after constant shift; equality of raw theta; retain differing score signs",
+    "scope": "exploratory estimand comparison; no additional confirmatory pvalues"
+  },
+  "stylized_alternatives": {
+    "universe": "fixed11689 ordered signed-score ranks;6 nominated ranks per simulated set",
+    "sampling": "independent rank quantiles U_i ~ Beta(alpha_i,1); map floor(N*U_i) to ordered finite-universe genes; reject entire tuples with duplicates, conditioning each scenario on distinct ranks",
+    "scenarios": [
+      {
+        "name": "uniform_null",
+        "alphas": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "seed": 20261100
+      },
+      {
+        "name": "diffuse_mean_rank_0.60",
+        "alphas": [
+          1.5,
+          1.5,
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ],
+        "seed": 20261101
+      },
+      {
+        "name": "diffuse_mean_rank_0.667",
+        "alphas": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "seed": 20261102
+      },
+      {
+        "name": "diffuse_mean_rank_0.75",
+        "alphas": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "seed": 20261103
+      },
+      {
+        "name": "diffuse_mean_rank_0.833",
+        "alphas": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "seed": 20261104
+      },
+      {
+        "name": "one_enriched_rank",
+        "alphas": [
+          5,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "seed": 20261105
+      },
+      {
+        "name": "three_enriched_ranks",
+        "alphas": [
+          5,
+          5,
+          5,
+          1,
+          1,
+          1
+        ],
+        "seed": 20261106
+      }
+    ],
+    "draws_per_scenario": 200000,
+    "generator": "PCG64",
+    "rejection": "theta strictly greater than independently calibrated primary empirical .95 reference threshold",
+    "reported": "nominal independent rank-quantile mean before distinctness conditioning, actual simulated theta mean, rejection fraction and MonteCarlo standard error",
+    "scope": "conditional stylized finite-rank design sensitivity; not observed power, clinical probability or propagated experimental uncertainty"
+  },
+  "prohibited": [
+    "no change to primary code/test/cohort",
+    "no inversion of q-values to nominal p-values",
+    "no bootstrap biological-effect CI",
+    "no rescue claim from secondary analysis",
+    "no causal attribution to immune challenge class"
+  ]
+}

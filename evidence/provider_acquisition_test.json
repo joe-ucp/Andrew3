@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "scope": "computational",
+  "status": "PASS",
+  "completed_utc": "2026-10-26T01:27:35.785854+00:00",
+  "fresh_inputs_required": true,
+  "retained_cache_used": false,
+  "source_paths_required": 10,
+  "unique_download_objects": 9,
+  "frozen_manifests_unchanged": true,
+  "manifest_sha256": {
+    "evidence/primary_sources.json": "8615bd21b0f26924f7344b81c462d261e4baae201e81488809e6a963b31508ce",
+    "evidence/raw_count_sources.json": "90175ad78d22c1d050be6902f832d0ca06501dfc94fc453240c9d2641d82308c"
+  },
+  "files": [
+    {
+      "filename": "data/raw/counts/CP0043_GRCh38_NCBI_CRISPRko_strict_gene_20240130.chip",
+      "status": "downloaded_verified",
+      "bytes": 2991633,
+      "url": "https://portals.broadinstitute.org/gpp/public/chipfile/download?filename=CP0043_GRCh38_NCBI_CRISPRko_strict_gene_20240130.chip",
+      "expected_sha256": "ef3dad026ee43f7e48cd103545abe7ecef73dabdf43fb2b85c7d79e88a50890d"
+    },
+    {
+      "filename": "data/raw/counts/CP0043_origtarget_20220324.chip",
+      "status": "downloaded_verified",
+      "bytes": 2598260,
+      "url": "https://portals.broadinstitute.org/gpp/public/chipfile/download?filename=CP0043_origtarget_20220324.chip",
+      "expected_sha256": "cda3cb91ded0a239c1fe032493af5dacdde4f40e57135bfeff3b8c18ea86252c"
+    },
+    {
+      "filename": "data/raw/counts/GSM6008413_CP0043_reference_20160120.csv.gz",
+      "status": "downloaded_verified",
+      "bytes": 993396,
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_CP0043_reference_20160120.csv.gz",
+      "expected_sha256": "4cf1307d050576153dc5488047986710e42f3b8c143667ebe9445702ff4d259e"
+    },
+    {
+      "filename": "data/raw/counts/GSM6008413_counts-JD_GPP2373_2901507_Sintov_20210224.txt.gz",
+      "status": "downloaded_verified",
+      "bytes": 2358441,
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_counts-JD_GPP2373_2901507_Sintov_20210224.txt.gz",
+      "expected_sha256": "96a18f7ffc8beefe84c0b176569b95bb59a3bc695742ae1e4c89a89ee92be425"
+    },
+    {
+      "filename": "data/raw/counts/GSM6008413_sample_info.txt.gz",
+      "status": "downloaded_verified",
+      "bytes": 235,
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_sample_info.txt.gz",
+      "expected_sha256": "c8f66d40a64b5b8831af2936279f7f1ef037e6170de1d65584d8063293592f2d"
+    },
+    {
+      "filename": "data/raw/counts/HOM_MouseHumanSequence.rpt",
+      "status": "downloaded_verified",
+      "bytes": 15112770,
+      "url": "https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt",
+      "expected_sha256": "c1e687ab12199044d4703b9a79864f5c51bc4134293dbc545e58fb5f7ab915c7"
+    },
+    {
+      "filename": "data/raw/counts/MRK_List2.rpt",
+      "status": "downloaded_verified",
+      "bytes": 78773954,
+      "url": "https://www.informatics.jax.org/downloads/reports/MRK_List2.rpt",
+      "expected_sha256": "47a967acb861f402c265ae4823b11906c5ac4cad88f2f665e08c0bf150deeb70"
+    },
+    {
+      "filename": "data/raw/counts/mouse_geckov2_library_a_2.csv",
+      "status": "downloaded_verified",
+      "bytes": 2811202,
+      "url": "https://media.addgene.org/cms/filer_public/c3/2c/c32ccf3a-00c5-44bd-bca6-eb7aec7ef433/mouse_geckov2_library_a_2.csv",
+      "expected_sha256": "c177a63d12dc489849e1617bc54f9dd9fce80ad3caf36983e0f8328e655af3b8"
+    },
+    {
+      "filename": "data/raw/mapping/HOM_MouseHumanSequence.rpt",
+      "status": "downloaded_verified",
+      "bytes": 15112770,
+      "url": "https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt",
+      "expected_sha256": "c1e687ab12199044d4703b9a79864f5c51bc4134293dbc545e58fb5f7ab915c7"
+    },
+    {
+      "filename": "data/raw/scores/mmc2.xlsx",
+      "status": "downloaded_archive_member_verified",
+      "bytes": 5179301,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9481918/supplementaryFiles",
+      "expected_sha256": "d08660be0403e60f7ea8f2f025ae1d922862d4c4922fb5c0a6e8a3c9ac0920a8",
+      "download_container_sha256": "e8e05a668f61df96d7a17d5082ea8d9c6baa128c42db588849a629cbb9231d3d",
+      "archive_member": "mmc2.xlsx"
+    }
+  ],
+  "historical_evidence_scope": "Historical literature/search snapshots were not acquired or verified. Shipped manual curation is a computational input, not an automated literature re-extraction.",
+  "manual_resolution": "Download missing files from the listed provider URLs into a separate folder using the destination basename, then rerun with --manual-downloads. Hash mismatch must be resolved with the original dated bytes; current substitute bytes cannot reconstruct this frozen analysis."
+}

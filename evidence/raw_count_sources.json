@@ -1,0 +1,119 @@
+[
+  {
+    "filename": "data/raw/counts/GSM6008413_counts-JD_GPP2373_2901507_Sintov_20210224.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_counts-JD_GPP2373_2901507_Sintov_20210224.txt.gz",
+    "sha256": "96a18f7ffc8beefe84c0b176569b95bb59a3bc695742ae1e4c89a89ee92be425",
+    "bytes": 2358441,
+    "retrieved_utc": "2026-10-25T03:32:50.983041+00:00",
+    "access_note": "Open GEO supplementary data / accession record; source attribution retained",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/GSM6008413_sample_info.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_sample_info.txt.gz",
+    "sha256": "c8f66d40a64b5b8831af2936279f7f1ef037e6170de1d65584d8063293592f2d",
+    "bytes": 235,
+    "retrieved_utc": "2026-10-25T03:32:49.327757+00:00",
+    "access_note": "Open GEO supplementary data / accession record; source attribution retained",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/GSM6008413_CP0043_reference_20160120.csv.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6008nnn/GSM6008413/suppl/GSM6008413_CP0043_reference_20160120.csv.gz",
+    "sha256": "4cf1307d050576153dc5488047986710e42f3b8c143667ebe9445702ff4d259e",
+    "bytes": 993396,
+    "retrieved_utc": "2026-10-25T03:32:50.682232+00:00",
+    "access_note": "Open GEO supplementary data / accession record; source attribution retained",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/GSM6008413.txt",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6008413&targ=self&form=text&view=full",
+    "sha256": "ab0c0302fad66ce2801c69087a2c884a3006738386329c8a6ccaf76f4ab4c0aa",
+    "bytes": 3917,
+    "retrieved_utc": "2026-10-25T03:32:46.087335+00:00",
+    "access_note": "Open GEO supplementary data / accession record; source attribution retained",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/GSE200085.txt",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200085&targ=self&form=text&view=full",
+    "sha256": "d1b979b60c6f4feebf123211b39cb31e5e8af01158c5fb7f3993aca2f86b9079",
+    "bytes": 2597,
+    "retrieved_utc": "2026-10-25T03:32:46.146339+00:00",
+    "access_note": "Open GEO supplementary data / accession record; source attribution retained",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/brunello_library_contents.txt",
+    "url": "https://www.addgene.org/static/cms/filer_public/8b/4c/8b4c89d9-eac1-44b2-bb2f-8fea95672705/broadgpp-brunello-library-contents.txt",
+    "sha256": "77001ee17860df41fb5f6df87081379cf5f92e51d88614b9fbe8ccca3367905c",
+    "bytes": 9232009,
+    "retrieved_utc": "2026-10-25T03:33:20.619490+00:00",
+    "access_note": "Public Addgene depositor library annotations; cite Doench et al. 2016 or Sanjana et al. 2014 and Addgene; no new redistribution license claimed",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/CP0043_pool.html",
+    "url": "https://portals.broadinstitute.org/gpp/public/pool/details?pool=CP0043",
+    "sha256": "b5a18654a29c24234373403c06b60b4ea4bfb3cbb475b5db0fa7d36d06a65e19",
+    "bytes": 21289,
+    "retrieved_utc": "2026-10-25T03:33:22.810528+00:00",
+    "access_note": "Broad GPP public research-use data; attribution required; source terms retained in CP0043_pool.html",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/mouse_gecko_addgene.html",
+    "url": "https://www.addgene.org/pooled-library/zhang-mouse-gecko-v2/",
+    "sha256": "967d91f4a848bf30e0195c99dabda37568020ca533a016cd64333a454249886a",
+    "bytes": 225912,
+    "retrieved_utc": "2026-10-25T03:33:23.348120+00:00",
+    "access_note": "Public Addgene depositor library annotations; cite Doench et al. 2016 or Sanjana et al. 2014 and Addgene; no new redistribution license claimed",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/CP0043_origtarget_20220324.chip",
+    "url": "https://portals.broadinstitute.org/gpp/public/chipfile/download?filename=CP0043_origtarget_20220324.chip",
+    "sha256": "cda3cb91ded0a239c1fe032493af5dacdde4f40e57135bfeff3b8c18ea86252c",
+    "bytes": 2598260,
+    "retrieved_utc": "2026-10-25T03:33:45.272973+00:00",
+    "access_note": "Broad GPP public research-use data; attribution required; source terms retained in CP0043_pool.html",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/CP0043_GRCh38_NCBI_CRISPRko_strict_gene_20240130.chip",
+    "url": "https://portals.broadinstitute.org/gpp/public/chipfile/download?filename=CP0043_GRCh38_NCBI_CRISPRko_strict_gene_20240130.chip",
+    "sha256": "ef3dad026ee43f7e48cd103545abe7ecef73dabdf43fb2b85c7d79e88a50890d",
+    "bytes": 2991633,
+    "retrieved_utc": "2026-10-25T03:33:47.914733+00:00",
+    "access_note": "Broad GPP public research-use data; attribution required; source terms retained in CP0043_pool.html",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/mouse_geckov2_library_a_2.csv",
+    "url": "https://media.addgene.org/cms/filer_public/c3/2c/c32ccf3a-00c5-44bd-bca6-eb7aec7ef433/mouse_geckov2_library_a_2.csv",
+    "sha256": "c177a63d12dc489849e1617bc54f9dd9fce80ad3caf36983e0f8328e655af3b8",
+    "bytes": 2811202,
+    "retrieved_utc": "2026-10-25T03:34:04.838440+00:00",
+    "access_note": "Public Addgene depositor library annotations; cite Doench et al. 2016 or Sanjana et al. 2014 and Addgene; no new redistribution license claimed",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/HOM_MouseHumanSequence.rpt",
+    "url": "https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt",
+    "sha256": "c1e687ab12199044d4703b9a79864f5c51bc4134293dbc545e58fb5f7ab915c7",
+    "bytes": 15112770,
+    "retrieved_utc": "2026-10-25T03:34:07.184837+00:00",
+    "access_note": "Public Mouse Genome Informatics report; frozen current snapshot; cite MGI/Jackson Laboratory",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  },
+  {
+    "filename": "data/raw/counts/MRK_List2.rpt",
+    "url": "https://www.informatics.jax.org/downloads/reports/MRK_List2.rpt",
+    "sha256": "47a967acb861f402c265ae4823b11906c5ac4cad88f2f665e08c0bf150deeb70",
+    "bytes": 78773954,
+    "retrieved_utc": "2026-10-25T03:34:54.594787+00:00",
+    "access_note": "Public Mouse Genome Informatics report; frozen current snapshot; cite MGI/Jackson Laboratory",
+    "role": "Raw-count robustness, sample identity, and barcode-to-construct mapping"
+  }
+]

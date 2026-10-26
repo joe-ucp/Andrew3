@@ -1,0 +1,7 @@
+scenario,initial_beta_cells,live_beta_cells,basal_output,stimulated_output,incremental_output,retained_abundance_fraction,output_per_initial_cell,increment_per_survivor,stimulation_index,reference_scenario,output_ratio_to_challenged_control
+challenged_control,100,40,20.0,60.0,40.0,0.4,0.4,1.0,3.0,challenged_control,1.0
+persistence_with_lower_output,100,80,16.0,48.0,32.0,0.8,0.32,0.39999999999999997,3.0,challenged_control,0.7999999999999999
+persistence_with_preserved_per_cell_output,100,80,40.0,120.0,80.0,0.8,0.8,1.0,3.0,challenged_control,2.0
+complete_loss,100,0,0.0,0.0,0.0,0.0,0.0,,,challenged_control,0.0
+secretory_injury_control,100,40,10.0,30.0,20.0,0.4,0.2,0.5,3.0,secretory_injury_control,1.0
+secretory_preservation_same_abundance,100,40,20.0,60.0,40.0,0.4,0.4,1.0,3.0,secretory_injury_control,2.0

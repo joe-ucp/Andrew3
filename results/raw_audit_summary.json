@@ -1,0 +1,16 @@
+{
+  "raw_barcodes": 77441,
+  "annotation_mapped_barcodes": 77441,
+  "graft_animals": 12,
+  "no_PBMC_animals": 6,
+  "hPi_animals": 6,
+  "scored_genes_with_raw_covariates": 11474,
+  "scored_genes_missing_covariates": 215,
+  "excluded_columns": [
+    "Unnamed: 2 (unlabeled zero column)",
+    "NTC (negative control; not a graft)"
+  ],
+  "donor_adjustment": "unavailable: sample table provides no donor assignments",
+  "count_model_reproduction": false,
+  "warning": "CPM contrast is not the publication KO-by-PBMC interaction relative to non-targeting guides. Differences are diagnostic, not an independent biological replication."
+}

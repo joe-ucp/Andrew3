@@ -1,0 +1,170 @@
+{
+  "as_of": "2026-10-25",
+  "review_design": "Focused evidence synthesis extending a retained eleven-target nominee map; not an exhaustive systematic review",
+  "sources": [
+    {
+      "id": "Cai2020",
+      "doi": "10.1038/s42255-020-0254-1",
+      "url": "https://doi.org/10.1038/s42255-020-0254-1",
+      "access": "Retained main article and assessed figure material in the nominee evidence map",
+      "product": "Mouse models and separate human stem-cell-derived beta-cell preparations",
+      "observation": "Autoimmune protection and lack of protection in the tested mouse allograft model; glucose-responsive baseline human preparations",
+      "boundary": "Baseline human secretion is not post-immune function; model-specific protection cannot be transferred across species or graft settings",
+      "locator": "Extended Data Figure 10c; Supplement S1 experiment records FE017 and FE018"
+    },
+    {
+      "id": "Sintov2022",
+      "doi": "10.1016/j.stemcr.2022.08.002",
+      "url": "https://doi.org/10.1016/j.stemcr.2022.08.002",
+      "access": "Retained primary article and screen inputs; quantitative reanalysis retained separately",
+      "product": "Human stem-cell-derived mixed islet product in an allogeneic PBMC mouse model",
+      "observation": "Independent screen supplies candidate rank comparison; six-candidate theta0.421 and p0.744 are retained reanalysis results, not values claimed from the original article",
+      "boundary": "Rank comparison is not a biological efficacy estimate or an absence-of-effect test",
+      "locator": "Supplement S1 transfer_summary.tsv; original screen score inputs remain in the foundation package"
+    },
+    {
+      "id": "Karaoglu2026",
+      "doi": "10.3389/fimmu.2026.1759835",
+      "url": "https://doi.org/10.3389/fimmu.2026.1759835",
+      "access": "Retained full article, figures and comparison-level extraction",
+      "product": "Human EndoC-betaH1 and mouse beta-TC-6 spheroids; distinct graft models",
+      "observation": "Baseline human spheroids responded to glucose; RNLS/HIVEP2 single edits did not establish durable graft protection",
+      "boundary": "Baseline secretion and post-graft protection are different experiments; human-to-mouse graft is xenogeneic",
+      "locator": "Supplement S1 baseline_experiments.tsv and functional_evidence.tsv"
+    },
+    {
+      "id": "Bode2024",
+      "doi": "10.3389/fimmu.2024.1403752",
+      "url": "https://doi.org/10.3389/fimmu.2024.1403752",
+      "access": "Full primary article and relevant figures assessed",
+      "product": "RNLS-edited human stem-cell-derived beta-like cultures; separate mouse mechanistic models",
+      "observation": "Favorable live CD45-negative counts and live/dead ratios after72h IL2-stimulated HLA-mismatched PBMC exposure",
+      "boundary": "Not beta-cell-marker-gated; no paired post-immune secretion; mouse mechanism necessity does not establish human mechanism necessity",
+      "locator": "Human co-culture survival experiment and Supplement S1 comparison extraction"
+    },
+    {
+      "id": "MacDonald2025",
+      "doi": "10.1016/j.molmet.2025.102115",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11981795/",
+      "access": "Full primary article and retained baseline figures assessed",
+      "product": "Mouse beta cells and human planar stem-cell-derived beta-cell cultures",
+      "observation": "Genetic RNLS disruption linked to glycolytic stress adaptation; human control and edited cultures both lacked GSIS in this preparation",
+      "boundary": "Does not establish an edit-specific functional defect; pharmacological and genetic effects are not interchangeable",
+      "locator": "Human metabolism and GSIS results; Supplement S1 baseline_experiments.tsv"
+    },
+    {
+      "id": "Bode2023",
+      "doi": "10.2337/db23-0030",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382656/",
+      "access": "Complete main text and main figure legends plus all six publisher supplementary files assessed; separate main-panel images not downloaded",
+      "product": "RNLS-deficient beta cells in autoimmune and immune-metabolic models",
+      "observation": "Metabolic, immune and graft outcomes without a located direct secretion assay in assessed material",
+      "boundary": "Not evidence of impaired secretion; source assessment is not an additional biological experiment",
+      "locator": "Supplement S1 bode2023_access_final.json; supplement DOI10.2337/figshare.22898705.v1"
+    },
+    {
+      "id": "Carlsson2025",
+      "doi": "10.1056/NEJMoa2503822",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40757665/",
+      "access": "Primary abstract and bibliographic record; complete article and supplements not obtained",
+      "product": "Modified deceased-donor human islets in one recipient without immunosuppression; not a stem-cell product",
+      "observation": "Glucose-responsive C-peptide and no detected response against modified cells during12weeks",
+      "boundary": "Uncontrolled n1; no insulin-independence, adequate-dose or population-efficacy claim; product engineering context cross-checked against registry/manufacturer disclosures",
+      "locator": "Primary abstract; N Engl J Med393:887–894; NCT06239636"
+    },
+    {
+      "id": "Carlsson2026",
+      "doi": "10.1056/NEJMc2604408",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2604408",
+      "access": "Primary journal indexed abstract and bibliographic record; full letter and supplements not obtained",
+      "product": "Same donor-islet recipient lineage asCarlsson2025",
+      "observation": "Abstract reports beta-cell function and no detected allograft immune response through14months",
+      "boundary": "Dependent follow-up, not another recipient; no numerical curve extraction or manufacturer-only imaging claim used in the manuscript",
+      "locator": "Journal abstract; online10July2026, volume395:825–827; PMID42430558"
+    },
+    {
+      "id": "Gerace2023",
+      "doi": "10.1016/j.xcrm.2022.100879",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873825/",
+      "access": "Full primary XML, results and Figure3 legend assessed",
+      "product": "Human hESC-derived B2M-knockout versusWT islets in diabetic NSG-DKO mice with mismatched human PBMCs",
+      "observation": "Residual glucose-responsive insulin at7weeks after immune challenge; GSIS n5/group at0/30min after glucose; delayed rejection",
+      "boundary": "Human cells in mouse host; incomplete protection; individual pre/post pairing not verified from a linked data table; no raw individual functional table identified",
+      "locator": "Figure3F–H; RNA-seqGSE200021 is not a joint functional outcome dataset"
+    },
+    {
+      "id": "Molano2024",
+      "doi": "10.1136/bmjdrc-2023-003897",
+      "url": "https://drc.bmj.com/content/12/2/e003897.full.pdf",
+      "access": "Primary publication and Figure7 assessed",
+      "product": "Human islet preparations and the human islet transplant bioassay",
+      "observation": "Absolute insulin-output differences matter despite similar stimulation indices",
+      "boundary": "Established potency-assay precedent; our counterexample is illustrative, not a new empirical discovery",
+      "locator": "Figure7 and discussion of absolute delta versus stimulation index",
+      "authors": "Molano RD, Pileggi A, Tse HM, Stabler CL, Fraker CA",
+      "pmid": "38485229",
+      "bibliographic_verification": "https://pubmed.ncbi.nlm.nih.gov/38485229/",
+      "bibliographic_verification_query": "e003897 Molano2024 glucose insulin",
+      "bibliographic_verification_scope": "Citation correction check performed separately from the earlier representative evidence searches; primary PubMed author record confirms Molano RD."
+    },
+    {
+      "id": "Hu2023_primary_human",
+      "doi": "10.1126/scitranslmed.adg5794",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37043559/",
+      "access": "Complete primary abstract and bibliographic record assessed; full text and supplements not assessed",
+      "product": "Engineered primary HUMAN donor pseudoislets with HLA-I/II-negative CD47-overexpressing phenotype; not a stem-cell product",
+      "observation": "Survival, endocrine function and diabetes amelioration in allogeneic humanized mice; separate abstract-reported avoidance of autoimmune killing in an autologous humanized model",
+      "boundary": "Do not assign duration, sample size or direct paired post-immune secretion completeness from the abstract; no per-survivor rate or clinical efficacy established",
+      "locator": "Abstract in retained core_records.json; PMID37043559"
+    },
+    {
+      "id": "Yoshihara2020",
+      "doi": "10.1038/s41586-020-2631-z",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872080/",
+      "access": "Retained complete primary XML; relevant Results, Methods and Figure2/3 legends assessed",
+      "product": "PD-L1-expressing human iPSC-derived WNT4-matured islet-like organoids; separate repeated-IFN-gamma induction arm not conflated",
+      "observation": "Glycemic control beyond50days in immunocompetent mouse xenografts; humanized mice show glycemic and circulating human C-peptide benefits",
+      "boundary": "Mouse hosts, not human trial; concentrations/glycemia are not direct secretion per surviving beta cell; model-specific result does not establish universal PD-L1 protection",
+      "locator": "Figures2d and3c-d; retainedYoshihara2020.xml"
+    }
+  ],
+  "clinical_report_dependency": {
+    "independent_reported_recipients": 1,
+    "lineage": [
+      "Carlsson2025 12weeks",
+      "same-recipient six-month conference/manufacturer reporting",
+      "Carlsson2026 14months"
+    ],
+    "six_month_report_not_new_cohort": true
+  },
+  "search_extension": {
+    "engines": "Primary article repositories, journal indexing, PubMed, public trial registry, and focused web discovery",
+    "representative_queries": [
+      "RNLS HIVEP2 post immune glucose stimulated insulin secretion human",
+      "renalase stress 102115 glucose secretion",
+      "hypoimmune islets 2025 NEJM",
+      "Long-Term Survival Hypoimmune NEJMc2604408"
+    ],
+    "selection": "Studies directly addressing human islet survival and function, mechanistic candidate interpretation, or the analytical endpoint; nonhuman-only evidence and additional engineering strategies were not required for the core synthesis",
+    "negative_claim_scope": "No qualifying nominee comparison located in assessed material; not a claim that no edited human product has post-immune function"
+  },
+  "additional_primary_context": [
+    {
+      "url": "https://clinicaltrials.gov/study/NCT06239636",
+      "role": "Planned clinical study and outcome context; estimated enrollment2 is not two observed recipients; no posted results in retained registry record"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm",
+      "role": "Manufacturer disclosure of product engineering and heterogeneous editing composition; not comparative efficacy evidence"
+    },
+    {
+      "url": "https://ir.sana.com/news-releases/news-release-details/sana-biotechnology-announces-follow-publication-new-england",
+      "role": "Manufacturer report checked for low-dose purpose and lineage; numerical/imaging details not independently extracted from inaccessible full journal letter"
+    }
+  ],
+  "data_feasibility": "No appropriate open individual-level clinical or paired post-immune secretion/survival table identified; no graph-digitized pseudo-data or fitted biological efficacy estimate supplied",
+  "analytical_data_status": "analytical_examples.csv contains hypothetical arithmetic examples only",
+  "retained_source_cache": "../data/raw/functional_protection_extension/clinical/; exact retrieval manifest in retained_source_manifest.json; original third-party bytes excluded from package",
+  "article_type": "Evidence-informed Perspective and experimental framework",
+  "measurement_interpretation": "Circulating hormone concentrations are distinguished from secretion rates; no clinical C-peptide concentration is inserted directly into F=S*f."
+}

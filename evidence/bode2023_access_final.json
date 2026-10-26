@@ -1,0 +1,190 @@
+{
+  "assessment_id": "BODE2023_FINAL_ACCESS_20261025",
+  "assessed_utc": "2026-10-25T16:17:31.351405+00:00",
+  "scope": "One-paper finishing check for candidate-specific beta-cell secretory function at baseline and after immune challenge. No new statistical analysis, candidate selection, or exhaustive immunology extraction.",
+  "article": {
+    "title": "Protective Renalase Deficiency in β-Cells Shapes Immune Metabolism and Function in Autoimmune Diabetes",
+    "doi": "10.2337/db23-0030",
+    "pmid": "37216639",
+    "pmcid": "PMC10382656",
+    "journal": "Diabetes",
+    "year": 2023,
+    "volume": 72,
+    "issue": 8,
+    "pages": "1127–1143"
+  },
+  "access_status": "resolved_main_text_and_all_publisher_supplements_assessed",
+  "main_article": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382656/",
+    "retained_snapshot": "data/raw/literature/bode2023_final/PMC10382656_article_AX.txt",
+    "sha256": "607e58064e487947ff57d3766dc0c42dd3a585722cd1b54299bb72895193d8bb",
+    "format": "UTF-8 browser accessibility snapshot; not original publisher XML",
+    "coverage": "Main introduction, all Research Design and Methods sections, complete Results and Discussion, all main Figure 1–7 legends, Article Information and bibliography were available. Full methods, results, discussion and legends were read. Main image panels were not downloaded separately; endpoint review uses their complete legends.",
+    "retrieval_method": "Article-container excerpt of public browser accessibility snapshot, saved as UTF-8. Browser/window metadata and nonarticle page controls omitted; article content retained verbatim.",
+    "authenticated_access": false,
+    "captcha_interaction": false
+  },
+  "supplements": {
+    "doi": "10.2337/figshare.22898705",
+    "versioned_doi": "10.2337/figshare.22898705.v1",
+    "metadata_url": "https://api.figshare.com/v2/articles/22898705",
+    "version": 1,
+    "published_date": "2023-05-22T20:19:21Z",
+    "license": {
+      "value": 11,
+      "name": "CC BY-NC-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "expected_file_count": 6,
+    "obtained_file_count": 6,
+    "total_pages": 7,
+    "all_publisher_md5_verified": true,
+    "reviewed": "Complete two-page legend PDF read, and all five supplemental figure pages rendered and visually inspected.",
+    "files": [
+      {
+        "file_id": 40640834,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure-legends.pdf",
+        "bytes": 157965,
+        "sha256": "6589a3de53d6098c0246a7dfb341759fa6c2cec088e0510e1ecd7a8f43ab9eac",
+        "publisher_md5": "b3558f5de44187841fcfe8a48d29dd2c",
+        "publisher_md5_verified": true,
+        "pages": 2
+      },
+      {
+        "file_id": 40640858,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure_1_revised.pdf",
+        "bytes": 173222,
+        "sha256": "317ce1d996696d167275531e36808055e0c632901740ab3cfa2e9454ef4603fc",
+        "publisher_md5": "d97f5b5411999499c0736551176ecee9",
+        "publisher_md5_verified": true,
+        "pages": 1
+      },
+      {
+        "file_id": 40640846,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure_2_revised.pdf",
+        "bytes": 324743,
+        "sha256": "8628a2ce87f3304cf440a34cf19e086f19f174c540f5b338e4b0fcf9c9f39fd5",
+        "publisher_md5": "3ded40515f3d6d965f21b770737bf54f",
+        "publisher_md5_verified": true,
+        "pages": 1
+      },
+      {
+        "file_id": 40640867,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure_3_revised.pdf",
+        "bytes": 677117,
+        "sha256": "6b08c3173a3d2d05e8d91a92ed7cf02d1ff534291d05266879505d141ba13789",
+        "publisher_md5": "a712ce37bb2e79aac7fae940c632fb92",
+        "publisher_md5_verified": true,
+        "pages": 1
+      },
+      {
+        "file_id": 40640873,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure_4_revised.pdf",
+        "bytes": 177990,
+        "sha256": "cac27105218c172cd5a3d133523c22656c9686e81167d78a32049a911f9212da",
+        "publisher_md5": "05d1821800cf6ebe6deaf5350960e254",
+        "publisher_md5_verified": true,
+        "pages": 1
+      },
+      {
+        "file_id": 40640876,
+        "filename": "data/raw/literature/bode2023_final/Supplemental_Figure_5_revised.pdf",
+        "bytes": 74604,
+        "sha256": "0cfe74ae2c13c2a60f0eb4004dcfb846b3f738e495dabbe81d51d2a2b4f5c579",
+        "publisher_md5": "49d92a1021d0b1177c91c90eaa99826f",
+        "publisher_md5_verified": true,
+        "pages": 1
+      }
+    ]
+  },
+  "discovery_searches": [
+    "\"10.2337/db23-0030\" full text supplement",
+    "\"Protective Renalase Deficiency\" pdf Harvard",
+    "\"db230030\" supplement diabetes",
+    "site:diabetesjournals.org \"db23-0030\" \"Supplementary\"",
+    "site:dash.harvard.edu \"Protective Renalase\"",
+    "site:kisslerlab.org \"Renalase\""
+  ],
+  "access_history": [
+    {
+      "route": "Official publisher article page via automated web reader",
+      "outcome": "HTTP 403; no bypass attempted. Search indexing exposed the official supplement DOI."
+    },
+    {
+      "route": "PMC page via automated web reader",
+      "outcome": "Challenge page; no CAPTCHA solved or bypassed."
+    },
+    {
+      "route": "Earlier Europe PMC fullTextXML / PDF and NCBI BioC / eFetch attempts",
+      "outcome": "Failed or front-matter only; earlier retained responses remain historical evidence, not evidence of full article unavailability.",
+      "retained_manifest": "data/raw/literature/revision3_citations/manifest.json"
+    },
+    {
+      "route": "NCBI eFetch front matter",
+      "outcome": "Retained XML explicitly states that the publisher does not allow downloading the full text in XML form. No alternate XML route was used to override that restriction.",
+      "retained_file": "data/raw/literature/revision3_citations/Bode2023_efetch.xml"
+    },
+    {
+      "route": "Public PMC page in ordinary Edge browser",
+      "outcome": "Complete public article text available without login, payment, or CAPTCHA interaction; accessibility snapshot retained."
+    },
+    {
+      "route": "Official ADA Figshare API and its public download URLs",
+      "outcome": "Metadata and all six version-1 supplementary PDFs obtained; every PDF matched the publisher-provided MD5 and has a retained SHA-256."
+    }
+  ],
+  "endpoint_inventory": [
+    {
+      "locator": "Methods: Seahorse Metabolic Flux Assay; Figure 1C–D",
+      "endpoint": "Basal extracellular acidification and oxygen consumption of WT versus Rnls-mutant NIT-1 cells.",
+      "classification": "Metabolic measurements before immune challenge; no insulin or C-peptide secretion readout."
+    },
+    {
+      "locator": "Methods: CD4+ T-Cell Proliferation Assay; Figure 1E–F",
+      "endpoint": "CD4 T-cell division during 72-hour direct or transwell coculture with WT versus Rnls-mutant NIT-1 cells.",
+      "classification": "Immune-cell functional assay, not beta-cell secretory function."
+    },
+    {
+      "locator": "Methods: In Vivo Splenocyte Transfer Mouse Model and Graft Isolation; Figure 2B–D; Figure 4A",
+      "endpoint": "Paired NIT-1 graft weight after diabetogenic splenocyte transfer at days 10 and 17, with a separate no-immune graft-weight comparison.",
+      "classification": "Graft-mass protection endpoint; not secretory or glycemic function. Adenoma-derived NIT-1 model limits physiologic beta-cell generalization."
+    },
+    {
+      "locator": "Figures 2E–H, 3–5; Figure 6A–D,H–J; Figure 7A–E",
+      "endpoint": "Immune-cell composition, transcriptomic profiles and surface markers in grafts or draining lymph nodes.",
+      "classification": "Immune profiling, not direct beta-cell secretion."
+    },
+    {
+      "locator": "Figure 6E–G and Figure 7F–G",
+      "endpoint": "PD-L1 overexpression or blockade with graft-weight and immune endpoints.",
+      "classification": "Protection-context manipulation, not direct beta-cell secretion."
+    },
+    {
+      "locator": "Supplemental Figure 1; Supplemental Figure 2a–f",
+      "endpoint": "Immune subsets and activation markers in graft/spleen/pancreas or lymph nodes, paired graft weight, and MHC-II expression.",
+      "classification": "Immune and graft-mass endpoints; no insulin/C-peptide assay."
+    },
+    {
+      "locator": "Supplemental Figures 3–5",
+      "endpoint": "Immune-cell sorting, UMAPs, macrophage/T-cell expression signatures, and dendritic-cell pathway enrichment.",
+      "classification": "The protein-secretion pathway label in Supplemental Figure 5b concerns dendritic-cell gene enrichment, not measured beta-cell insulin secretion."
+    }
+  ],
+  "determination": {
+    "direct_baseline_secretory_comparison_reported": false,
+    "direct_post_immune_secretory_comparison_reported": false,
+    "glucose_stimulated_insulin_secretion_comparison_reported": false,
+    "insulin_or_cpeptide_secretion_readout_reported": false,
+    "glycemic_function_comparison_reported": false,
+    "qualifying_joint_immune_protection_plus_retained_secretory_function_established": false,
+    "statement": "No candidate-specific direct beta-cell secretory-function comparison was located in the complete Bode 2023 main text and publisher supplements assessed, either before or after immune challenge.",
+    "interpretation": "This completes source assessment. It does not establish failed secretion, zero biological effect, or absence of an unpublished experiment. Metabolic flux and T-cell function cannot substitute for beta-cell secretory function."
+  },
+  "proposed_update": {
+    "record": "FE038",
+    "action": "Replace abstract-limited access status with completed-source-assessment status and cite this assessment. Retain a nonexperimental source-assessment record rather than adding every immunology comparison.",
+    "counts": "No additional baseline or post-immune secretory-function comparison should be counted. The primary statistical result and statistical files are unchanged.",
+    "narrative": "Remove the now-obsolete statement that Bode 2023 full text/supplements remain inaccessible; state that full source review found graft/immune endpoints without a direct secretion comparison."
+  },
+  "manifest": "data/raw/literature/bode2023_final/manifest.json"
+}
